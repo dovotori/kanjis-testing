@@ -63,6 +63,13 @@ const Nav = ({ mode, modes, setMode, routes, history, location }) => {
             >
               list
             </option>
+            <option
+              value="/lessons"
+              key="/lessons"
+              selected={"/lessons" === location.pathname}
+            >
+              lessons
+            </option>
             <option value="/" key="/" selected={"/" === location.pathname}>
               kanjis N5
             </option>
