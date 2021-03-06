@@ -1,0 +1,35 @@
+{
+  "i": {
+    "label": "+i",
+    "preneuaff": { "v": "i" },
+    "preneuneg": { "v": "kunai" },
+    "prepolaff": { "v": "desu" },
+    "prepolneg": { "v": "kunaidesu" },
+    "pasneuaff": { "v": "kata" },
+    "pasneuneg": { "v": "kunakata" },
+    "paspolaff": { "v": "katadesu" },
+    "paspolneg": { "v": "kunakatadesu" }
+  },
+  "ii": {
+    "label": "ii",
+    "preneuaff": { "v": "ii" },
+    "preneuneg": { "v": "yokunai" },
+    "prepolaff": { "v": "yoku" },
+    "prepolneg": { "v": "yokuarimasen" },
+    "pasneuaff": { "v": "yokata" },
+    "pasneuneg": { "v": "yokunakatta" },
+    "paspolaff": { "v": "yokatadesu" },
+    "paspolneg": { "v": "yokuarimasendeshita" }
+  },
+  "na": {
+    "label": "+na",
+    "preneuaff": { "v": "da" },
+    "preneuneg": { "v": "djanai" },
+    "prepolaff": { "v": "desu" },
+    "prepolneg": { "v": "waarimasen" },
+    "pasneuaff": { "v": "data" },
+    "pasneuneg": { "v": "djanakatta" },
+    "paspolaff": { "v": "deshita" },
+    "paspolneg": { "v": "waarimasendeshita" }
+  }
+}

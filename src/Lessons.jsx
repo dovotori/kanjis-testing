@@ -1,6 +1,7 @@
 import React from "react";
 
 import Drawer from "./Drawer";
+import values from "/public/data/lessons.json";
 
 const Svg = () => (
   <svg viewBox="0 0 32 32">
@@ -63,42 +64,6 @@ const Verbes = () => {
       </div>
     </Drawer>
   );
-};
-
-const values = {
-  i: {
-    label: "+i",
-    preneuaff: { v: "i" }, // present neutre affirmatif
-    preneuneg: { v: "kunai" },
-    prepolaff: { v: "desu" },
-    prepolneg: { v: "kunaidesu" },
-    pasneuaff: { v: "kata" }, // passe neutre affirmatif
-    pasneuneg: { v: "kunakata" },
-    paspolaff: { v: "katadesu" },
-    paspolneg: { v: "kunakatadesu" }
-  },
-  ii: {
-    label: "ii",
-    preneuaff: { v: "ii" },
-    preneuneg: { v: "yokunai" },
-    prepolaff: { v: "yoku" },
-    prepolneg: { v: "yokuarimasen" },
-    pasneuaff: { v: "yokata" },
-    pasneuneg: { v: "yokunakatta" },
-    paspolaff: { v: "yokatadesu" },
-    paspolneg: { v: "yokuarimasendeshita" }
-  },
-  na: {
-    label: "+na",
-    preneuaff: { v: "da" },
-    preneuneg: { v: "djanai" },
-    prepolaff: { v: "desu" },
-    prepolneg: { v: "waarimasen" },
-    pasneuaff: { v: "data" },
-    pasneuneg: { v: "djanakatta" },
-    paspolaff: { v: "deshita" },
-    paspolneg: { v: "waarimasendeshita" }
-  }
 };
 
 const W = ({ children }) => <span className="cell">{children}</span>;
