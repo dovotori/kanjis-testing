@@ -191,7 +191,7 @@ svg {
 
 .list h1,
 .lessons h1 {
-  margin: 1em 0;
+  margin: 2em 0 1em;
 }
 
 section {
@@ -208,12 +208,12 @@ section {
 }
 
 .list section p span:nth-of-type(1) {
-  width: 10%;
+  width: 30%;
 }
 
 .list section p span:nth-of-type(2) {
   color: #aaa;
-  width: 90%;
+  width: 70%;
 }
 
 .lessons .flex {
