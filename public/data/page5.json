@@ -1,0 +1,317 @@
+{
+  "0": {
+    "id": 0,
+    "pronunciation": "やすむ",
+    "value": "休む",
+    "translation": "se reposer, prendre du repos; être absent, prendre un jour de congé; aller au lit; cesser temporairement une activité",
+    "jlpt": 5
+  },
+  "1": {
+    "id": 1,
+    "pronunciation": "やすみ",
+    "value": "休み",
+    "translation": "repos, vacances",
+    "jlpt": 5
+  },
+  "2": {
+    "id": 2,
+    "pronunciation": "ひるやすみ",
+    "value": "昼休み",
+    "translation": "pause midi, dejeuner",
+    "jlpt": 5
+  },
+  "3": {
+    "id": 3,
+    "pronunciation": "けんがく",
+    "value": "見学",
+    "translation": "visite (studieuse), voyage d'étude",
+    "jlpt": 5
+  },
+  "4": {
+    "id": 4,
+    "pronunciation": "みる",
+    "value": "見る",
+    "translation": "voir",
+    "jlpt": 5
+  },
+  "5": {
+    "id": 5,
+    "pronunciation": "みせる",
+    "value": "見せる",
+    "translation": "montrer",
+    "jlpt": 5
+  },
+  "6": {
+    "id": 6,
+    "pronunciation": "みえる",
+    "value": "見える",
+    "translation": "être visible",
+    "jlpt": 5
+  },
+  "7": {
+    "id": 7,
+    "pronunciation": "けんぶつ",
+    "value": "見物",
+    "translation": "visiter (tourisme)",
+    "jlpt": 5
+  },
+  "8": {
+    "id": 8,
+    "pronunciation": "いう",
+    "value": "言う",
+    "translation": "dire",
+    "jlpt": 5
+  },
+  "9": {
+    "id": 9,
+    "pronunciation": "ことば",
+    "value": "言葉",
+    "translation": "mot",
+    "jlpt": 5
+  },
+  "10": {
+    "id": 10,
+    "pronunciation": "ぎんこう",
+    "value": "銀行",
+    "translation": "banque",
+    "jlpt": 5
+  },
+  "11": {
+    "id": 11,
+    "pronunciation": "りょこう",
+    "value": "旅行",
+    "translation": "voyage,excursion",
+    "jlpt": 5
+  },
+  "12": {
+    "id": 12,
+    "pronunciation": "いく",
+    "value": "行く",
+    "translation": "aller",
+    "jlpt": 5
+  },
+  "13": {
+    "id": 13,
+    "pronunciation": "じしょ",
+    "value": "辞書",
+    "translation": "dictionnaire",
+    "jlpt": 5
+  },
+  "14": {
+    "id": 14,
+    "pronunciation": "かく",
+    "value": "書く",
+    "translation": "ecrire",
+    "jlpt": 5
+  },
+  "15": {
+    "id": 15,
+    "pronunciation": "よむ",
+    "value": "読む",
+    "translation": "lire",
+    "jlpt": 5
+  },
+  "16": {
+    "id": 16,
+    "pronunciation": "かう",
+    "value": "買う",
+    "translation": "acheter",
+    "jlpt": 5
+  },
+  "17": {
+    "id": 17,
+    "pronunciation": "かいもの",
+    "value": "買い物",
+    "translation": "les courses",
+    "jlpt": 5
+  },
+  "18": {
+    "id": 18,
+    "pronunciation": "くる",
+    "value": "来る",
+    "translation": "venir",
+    "jlpt": 5
+  },
+  "19": {
+    "id": 19,
+    "pronunciation": "たつ",
+    "value": "立つ",
+    "translation": "se lever, se mettre debout; se trouver dans",
+    "jlpt": 5
+  },
+  "20": {
+    "id": 20,
+    "pronunciation": "しょくじ",
+    "value": "食事",
+    "translation": "repas",
+    "jlpt": 5
+  },
+  "21": {
+    "id": 21,
+    "pronunciation": "しょくどう",
+    "value": "食堂",
+    "translation": "cafeteria",
+    "jlpt": 5
+  },
+  "22": {
+    "id": 22,
+    "pronunciation": "しょくりょひん",
+    "value": "食料品",
+    "translation": "produits alimentaires　",
+    "jlpt": 5
+  },
+  "23": {
+    "id": 23,
+    "pronunciation": "たべる",
+    "value": "食べる",
+    "translation": "manger",
+    "jlpt": 5
+  },
+  "24": {
+    "id": 24,
+    "pronunciation": "たべもの",
+    "value": "食べ物",
+    "translation": "nouriture",
+    "jlpt": 5
+  },
+  "25": {
+    "id": 25,
+    "pronunciation": "もの",
+    "value": "物",
+    "translation": "la chose",
+    "jlpt": 5
+  },
+  "26": {
+    "id": 26,
+    "pronunciation": "のむ",
+    "value": "飲む",
+    "translation": "boire",
+    "jlpt": 5
+  },
+  "27": {
+    "id": 27,
+    "pronunciation": "のみもの",
+    "value": "飲み物",
+    "translation": "boissons",
+    "jlpt": 5
+  },
+  "28": {
+    "id": 28,
+    "pronunciation": "かいわ",
+    "value": "会話",
+    "translation": "conversation",
+    "jlpt": 5
+  },
+  "29": {
+    "id": 29,
+    "pronunciation": "あう",
+    "value": "会う",
+    "translation": "rencontrer",
+    "jlpt": 5
+  },
+  "30": {
+    "id": 30,
+    "pronunciation": "でんしゃ",
+    "value": "電車",
+    "translation": "train",
+    "jlpt": 5
+  },
+  "31": {
+    "id": 31,
+    "pronunciation": "でんき",
+    "value": "電気",
+    "translation": "electricité",
+    "jlpt": 5
+  },
+  "32": {
+    "id": 32,
+    "pronunciation": "でんわ",
+    "value": "電話",
+    "translation": "telephone",
+    "jlpt": 5
+  },
+  "33": {
+    "id": 33,
+    "pronunciation": "はなす",
+    "value": "話す",
+    "translation": "parler",
+    "jlpt": 5
+  },
+  "34": {
+    "id": 34,
+    "pronunciation": "はなし",
+    "value": "話",
+    "translation": "discussion",
+    "jlpt": 5
+  },
+  "35": {
+    "id": 35,
+    "pronunciation": "じどうしゃ",
+    "value": "自動車",
+    "translation": "automobile",
+    "jlpt": 5
+  },
+  "36": {
+    "id": 36,
+    "pronunciation": "じてんしゃ",
+    "value": "自転車",
+    "translation": "velo",
+    "jlpt": 5
+  },
+  "37": {
+    "id": 37,
+    "pronunciation": "くるま",
+    "value": "車",
+    "translation": "voiture",
+    "jlpt": 5
+  },
+  "38": {
+    "id": 38,
+    "pronunciation": "は",
+    "value": "葉",
+    "translation": "feuille d'arbre",
+    "jlpt": 5
+  },
+  "39": {
+    "id": 39,
+    "pronunciation": "き",
+    "value": "気",
+    "translation": "esprit, état d'esprit, humeur, disposition, motivation",
+    "jlpt": 5
+  },
+  "40": {
+    "id": 40,
+    "pronunciation": "ひる",
+    "value": "昼",
+    "translation": "midi; déjeuner",
+    "jlpt": 5
+  },
+  "41": {
+    "id": 41,
+    "pronunciation": "しな",
+    "value": "品",
+    "translation": "produit, article",
+    "jlpt": 5
+  },
+  "42": {
+    "id": 42,
+    "pronunciation": "うる",
+    "value": "売る",
+    "translation": "vendre",
+    "jlpt": 5
+  },
+  "43": {
+    "id": 43,
+    "pronunciation": "りょうり",
+    "value": "料理",
+    "translation": "cuisine; nourriture",
+    "jlpt": 5
+  },
+  "44": {
+    "id": 44,
+    "pronunciation": "り",
+    "value": "理",
+    "translation": "raison",
+    "jlpt": 5
+  }
+}

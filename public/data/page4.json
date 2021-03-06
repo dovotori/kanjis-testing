@@ -1,0 +1,219 @@
+{
+  "0": {
+    "id": 0,
+    "pronunciation": "えき",
+    "value": "駅",
+    "translation": "gare, station",
+    "jlpt": 5
+  },
+  "1": {
+    "id": 1,
+    "pronunciation": "でる",
+    "value": "出る",
+    "translation": "sortir",
+    "jlpt": 5
+  },
+  "2": {
+    "id": 2,
+    "pronunciation": "だす",
+    "value": "出す",
+    "translation": "faire sortir, envoyer; produire, présenter",
+    "jlpt": 5
+  },
+  "3": {
+    "id": 3,
+    "pronunciation": "はいる",
+    "value": "入る",
+    "translation": "entrer, se joindre à",
+    "jlpt": 5
+  },
+  "4": {
+    "id": 4,
+    "pronunciation": "いりぐち",
+    "value": "入り口",
+    "translation": "entrée",
+    "jlpt": 5
+  },
+  "5": {
+    "id": 5,
+    "pronunciation": "でぐち",
+    "value": "出口",
+    "translation": "sortie",
+    "jlpt": 5
+  },
+  "6": {
+    "id": 6,
+    "pronunciation": "いれる",
+    "value": "入れる",
+    "translation": "insérer, mettre, inclure, laisser rentrer, faire entrer; allumer (feu); activer, mettre en marche, utiliser",
+    "jlpt": 5
+  },
+  "7": {
+    "id": 7,
+    "pronunciation": "とうきょう",
+    "value": "東京",
+    "translation": "Tokyo",
+    "jlpt": 5
+  },
+  "8": {
+    "id": 8,
+    "pronunciation": "ひがし",
+    "value": "東",
+    "translation": "est",
+    "jlpt": 5
+  },
+  "9": {
+    "id": 9,
+    "pronunciation": "ひがしぐち",
+    "value": "東口",
+    "translation": "sortie est",
+    "jlpt": 5
+  },
+  "10": {
+    "id": 10,
+    "pronunciation": "にし",
+    "value": "西",
+    "translation": "ouest",
+    "jlpt": 5
+  },
+  "11": {
+    "id": 11,
+    "pronunciation": "せいよう",
+    "value": "西洋",
+    "translation": "l'Occident",
+    "jlpt": 5
+  },
+  "12": {
+    "id": 12,
+    "pronunciation": "にしぐち",
+    "value": "西口",
+    "translation": "sortie ouest",
+    "jlpt": 5
+  },
+  "13": {
+    "id": 13,
+    "pronunciation": "みなみ",
+    "value": "南",
+    "translation": "sud",
+    "jlpt": 5
+  },
+  "14": {
+    "id": 14,
+    "pronunciation": "みなみぐち",
+    "value": "南口",
+    "translation": "sortie sud",
+    "jlpt": 5
+  },
+  "15": {
+    "id": 15,
+    "pronunciation": "きた",
+    "value": "北",
+    "translation": "nord",
+    "jlpt": 5
+  },
+  "16": {
+    "id": 16,
+    "pronunciation": "ほっかいどう",
+    "value": "北海道",
+    "translation": "Hokkaido",
+    "jlpt": 5
+  },
+  "17": {
+    "id": 17,
+    "pronunciation": "うみ",
+    "value": "海",
+    "translation": "mer",
+    "jlpt": 5
+  },
+  "18": {
+    "id": 18,
+    "pronunciation": "みち",
+    "value": "道",
+    "translation": "chemin, voie, route",
+    "jlpt": 5
+  },
+  "19": {
+    "id": 19,
+    "pronunciation": "きたぐち",
+    "value": "北口",
+    "translation": "sortie nord",
+    "jlpt": 5
+  },
+  "20": {
+    "id": 20,
+    "pronunciation": "じょうず",
+    "value": "上手",
+    "translation": "adroit, doué, habile; flatterie",
+    "jlpt": 5
+  },
+  "21": {
+    "id": 21,
+    "pronunciation": "うえ",
+    "value": "上",
+    "translation": "dessus, en haut",
+    "jlpt": 5
+  },
+  "22": {
+    "id": 22,
+    "pronunciation": "うわぎ",
+    "value": "上着",
+    "translation": "veste",
+    "jlpt": 5
+  },
+  "23": {
+    "id": 23,
+    "pronunciation": "ちかてつ",
+    "value": "地下鉄",
+    "translation": "métro",
+    "jlpt": 5
+  },
+  "24": {
+    "id": 24,
+    "pronunciation": "した",
+    "value": "下",
+    "translation": "dessous, en bas, sous",
+    "jlpt": 5
+  },
+  "25": {
+    "id": 25,
+    "pronunciation": "へた",
+    "value": "下手",
+    "translation": "maladroit, peu doué",
+    "jlpt": 5
+  },
+  "26": {
+    "id": 26,
+    "pronunciation": "ひだり",
+    "value": "左",
+    "translation": "gauche",
+    "jlpt": 5
+  },
+  "27": {
+    "id": 27,
+    "pronunciation": "みぎ",
+    "value": "右",
+    "translation": "droite",
+    "jlpt": 5
+  },
+  "28": {
+    "id": 28,
+    "pronunciation": "ち",
+    "value": "地",
+    "translation": "terre, sol",
+    "jlpt": 5
+  },
+  "29": {
+    "id": 29,
+    "pronunciation": "てつ",
+    "value": "鉄",
+    "translation": "fer",
+    "jlpt": 5
+  },
+  "30": {
+    "id": 30,
+    "pronunciation": "て",
+    "value": "手",
+    "translation": "main",
+    "jlpt": 5
+  }
+}

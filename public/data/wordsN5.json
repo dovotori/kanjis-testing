@@ -1,0 +1,4564 @@
+{
+  "0": {
+    "id": 0,
+    "pronunciation": "ああ",
+    "value": "嗚呼",
+    "translation": "ah !, oh !, hey!",
+    "jlpt": 5
+  },
+  "1": {
+    "id": 1,
+    "pronunciation": "あいさつする",
+    "value": "挨拶する",
+    "translation": "saluer",
+    "jlpt": 5
+  },
+  "2": {
+    "id": 2,
+    "pronunciation": "あう会う",
+    "value": "・遭う[五段]",
+    "translation": "rencontrer, voir (une personne)",
+    "jlpt": 5
+  },
+  "3": {
+    "id": 3,
+    "pronunciation": "あお",
+    "value": "青",
+    "translation": "bleu (le), vert (le)",
+    "jlpt": 5
+  },
+  "4": {
+    "id": 4,
+    "pronunciation": "あおい",
+    "value": "青い・蒼い",
+    "translation": "bleu, vert, inexpérimenté",
+    "jlpt": 5
+  },
+  "5": {
+    "id": 5,
+    "pronunciation": "あか",
+    "value": "赤",
+    "translation": "rouge (le)",
+    "jlpt": 5
+  },
+  "6": {
+    "id": 6,
+    "pronunciation": "あかい",
+    "value": "赤い",
+    "translation": "rouge",
+    "jlpt": 5
+  },
+  "7": {
+    "id": 7,
+    "pronunciation": "あかるい",
+    "value": "明るい",
+    "translation": "clair",
+    "jlpt": 5
+  },
+  "8": {
+    "id": 8,
+    "pronunciation": "あき",
+    "value": "秋",
+    "translation": "automne",
+    "jlpt": 5
+  },
+  "9": {
+    "id": 9,
+    "pronunciation": "あく",
+    "value": "開く",
+    "translation": "[五段]s'ouvrir",
+    "jlpt": 5
+  },
+  "10": {
+    "id": 10,
+    "pronunciation": "あける",
+    "value": "開ける・明ける",
+    "translation": "[一段]ouvrir",
+    "jlpt": 5
+  },
+  "11": {
+    "id": 11,
+    "pronunciation": "あげる",
+    "value": "上げる",
+    "translation": "[一段]donner",
+    "jlpt": 5
+  },
+  "12": {
+    "id": 12,
+    "pronunciation": "あさ",
+    "value": "朝",
+    "translation": "matin",
+    "jlpt": 5
+  },
+  "13": {
+    "id": 13,
+    "pronunciation": "あさごはん",
+    "value": "朝ご飯",
+    "translation": "petit-déjeuner",
+    "jlpt": 5
+  },
+  "14": {
+    "id": 14,
+    "pronunciation": "あさって",
+    "value": "明後日",
+    "translation": "après-demain",
+    "jlpt": 5
+  },
+  "15": {
+    "id": 15,
+    "pronunciation": "あし",
+    "value": "足",
+    "translation": "jambe",
+    "jlpt": 5
+  },
+  "16": {
+    "id": 16,
+    "pronunciation": "あし",
+    "value": "足",
+    "translation": "pied",
+    "jlpt": 5
+  },
+  "17": {
+    "id": 17,
+    "pronunciation": "あした",
+    "value": "明日",
+    "translation": "demain",
+    "jlpt": 5
+  },
+  "18": {
+    "id": 18,
+    "pronunciation": "あそこ",
+    "value": "彼処",
+    "translation": "là-bas (loin du locuteur et de l'interlocuteur)",
+    "jlpt": 5
+  },
+  "19": {
+    "id": 19,
+    "pronunciation": "あそび",
+    "value": "遊び",
+    "translation": "jeu",
+    "jlpt": 5
+  },
+  "20": {
+    "id": 20,
+    "pronunciation": "あそぶ",
+    "value": "遊ぶ",
+    "translation": "[五段]jouer",
+    "jlpt": 5
+  },
+  "21": {
+    "id": 21,
+    "pronunciation": "あたたかい",
+    "value": "温かい・暖かい",
+    "translation": "tiède, chaud",
+    "jlpt": 5
+  },
+  "22": {
+    "id": 22,
+    "pronunciation": "あたま",
+    "value": "頭",
+    "translation": "tête",
+    "jlpt": 5
+  },
+  "23": {
+    "id": 23,
+    "pronunciation": "あたらしい",
+    "value": "新しい",
+    "translation": "nouveau",
+    "jlpt": 5
+  },
+  "24": {
+    "id": 24,
+    "pronunciation": "あちら",
+    "value": "彼方",
+    "translation": "ce côté-là (loin du locuteur et de l'interlocuteur)",
+    "jlpt": 5
+  },
+  "25": {
+    "id": 25,
+    "pronunciation": "あつい",
+    "value": "暑い",
+    "translation": "chaud (temps météo.)",
+    "jlpt": 5
+  },
+  "26": {
+    "id": 26,
+    "pronunciation": "あつい",
+    "value": "厚い",
+    "translation": "épais,lourd",
+    "jlpt": 5
+  },
+  "27": {
+    "id": 27,
+    "pronunciation": "あっち",
+    "value": "彼方",
+    "translation": "ce côté-là (loin du locuteur et de l'interlocuteur)",
+    "jlpt": 5
+  },
+  "28": {
+    "id": 28,
+    "pronunciation": "あと",
+    "value": "後",
+    "translation": "après",
+    "jlpt": 5
+  },
+  "29": {
+    "id": 29,
+    "pronunciation": "あなた",
+    "value": "貴方",
+    "translation": "tu, toi, ton (neutre)",
+    "jlpt": 5
+  },
+  "30": {
+    "id": 30,
+    "pronunciation": "あに",
+    "value": "兄",
+    "translation": "grand-frère",
+    "jlpt": 5
+  },
+  "31": {
+    "id": 31,
+    "pronunciation": "あね",
+    "value": "姉",
+    "translation": "grande-sœur",
+    "jlpt": 5
+  },
+  "32": {
+    "id": 32,
+    "pronunciation": "",
+    "value": "あの",
+    "translation": "bien, donc...",
+    "jlpt": 5
+  },
+  "33": {
+    "id": 33,
+    "pronunciation": "あの",
+    "value": "彼の",
+    "translation": "ce (loin du locuteur et de l'interlocuteur)",
+    "jlpt": 5
+  },
+  "34": {
+    "id": 34,
+    "pronunciation": "",
+    "value": "アパート",
+    "translation": "appartement",
+    "jlpt": 5
+  },
+  "35": {
+    "id": 35,
+    "pronunciation": "あびる",
+    "value": "浴びる",
+    "translation": "[一段]prendre une douche, prendre un bain, se dorer au soleil",
+    "jlpt": 5
+  },
+  "36": {
+    "id": 36,
+    "pronunciation": "あぶない",
+    "value": "危ない",
+    "translation": "dangereux",
+    "jlpt": 5
+  },
+  "37": {
+    "id": 37,
+    "pronunciation": "あまい",
+    "value": "甘い",
+    "translation": "doux, délicieux, sucré",
+    "jlpt": 5
+  },
+  "38": {
+    "id": 38,
+    "pronunciation": "あまり",
+    "value": "余り",
+    "translation": "pas tellement (+négatif)",
+    "jlpt": 5
+  },
+  "39": {
+    "id": 39,
+    "pronunciation": "あめ",
+    "value": "雨",
+    "translation": "pluie",
+    "jlpt": 5
+  },
+  "40": {
+    "id": 40,
+    "pronunciation": "あめ",
+    "value": "飴",
+    "translation": "bonbon, sucrerie",
+    "jlpt": 5
+  },
+  "41": {
+    "id": 41,
+    "pronunciation": "あらう",
+    "value": "洗う",
+    "translation": "[五段]laver",
+    "jlpt": 5
+  },
+  "42": {
+    "id": 42,
+    "pronunciation": "ある",
+    "value": "有る",
+    "translation": "[五段]avoir, posséder",
+    "jlpt": 5
+  },
+  "43": {
+    "id": 43,
+    "pronunciation": "ある",
+    "value": "在る",
+    "translation": "[五段]être, se trouver, exister",
+    "jlpt": 5
+  },
+  "44": {
+    "id": 44,
+    "pronunciation": "あるく",
+    "value": "歩く",
+    "translation": "[五段]marcher",
+    "jlpt": 5
+  },
+  "45": {
+    "id": 45,
+    "pronunciation": "あれ",
+    "value": "彼",
+    "translation": "ceci (loin du locuteur et de l'interlocuteur)",
+    "jlpt": 5
+  },
+  "46": {
+    "id": 46,
+    "pronunciation": "あんまり・あまり",
+    "value": "余り",
+    "translation": "excès, trop plein, surplus",
+    "jlpt": 5
+  },
+  "47": {
+    "id": 47,
+    "pronunciation": "いい・よい",
+    "value": "良い",
+    "translation": "plaisant, agréable, bien",
+    "jlpt": 5
+  },
+  "48": {
+    "id": 48,
+    "pronunciation": "いいえ, いえ",
+    "value": "否",
+    "translation": "non",
+    "jlpt": 5
+  },
+  "49": {
+    "id": 49,
+    "pronunciation": "いう",
+    "value": "言う",
+    "translation": "[五段]dire",
+    "jlpt": 5
+  },
+  "50": {
+    "id": 50,
+    "pronunciation": "いえ",
+    "value": "家",
+    "translation": "maison",
+    "jlpt": 5
+  },
+  "51": {
+    "id": 51,
+    "pronunciation": "いく・ゆく",
+    "value": "行く",
+    "translation": "[五段]aller",
+    "jlpt": 5
+  },
+  "52": {
+    "id": 52,
+    "pronunciation": "いくつ",
+    "value": "幾つ",
+    "translation": "combien ? (quantité)",
+    "jlpt": 5
+  },
+  "53": {
+    "id": 53,
+    "pronunciation": "いくら",
+    "value": "幾ら",
+    "translation": "combien ? (prix)",
+    "jlpt": 5
+  },
+  "54": {
+    "id": 54,
+    "pronunciation": "いけ",
+    "value": "池",
+    "translation": "étang",
+    "jlpt": 5
+  },
+  "55": {
+    "id": 55,
+    "pronunciation": "いし",
+    "value": "石",
+    "translation": "pierre, roc",
+    "jlpt": 5
+  },
+  "56": {
+    "id": 56,
+    "pronunciation": "いしゃ",
+    "value": "医者",
+    "translation": "docteur, médecin",
+    "jlpt": 5
+  },
+  "57": {
+    "id": 57,
+    "pronunciation": "いす",
+    "value": "椅子",
+    "translation": "chaise",
+    "jlpt": 5
+  },
+  "58": {
+    "id": 58,
+    "pronunciation": "いそがしい",
+    "value": "忙しい",
+    "translation": "occupé",
+    "jlpt": 5
+  },
+  "59": {
+    "id": 59,
+    "pronunciation": "いたい",
+    "value": "痛い",
+    "translation": "douloureux",
+    "jlpt": 5
+  },
+  "60": {
+    "id": 60,
+    "pronunciation": "いただきます",
+    "value": "戴きます",
+    "translation": "merci pour ce repas (expression de gratitude avant de commencer à manger)",
+    "jlpt": 5
+  },
+  "61": {
+    "id": 61,
+    "pronunciation": "いち",
+    "value": "一",
+    "translation": "un",
+    "jlpt": 5
+  },
+  "62": {
+    "id": 62,
+    "pronunciation": "いちにち",
+    "value": "一日",
+    "translation": "un jour",
+    "jlpt": 5
+  },
+  "63": {
+    "id": 63,
+    "pronunciation": "いちばん",
+    "value": "一番",
+    "translation": "meilleur, le premier, le numéro 1",
+    "jlpt": 5
+  },
+  "64": {
+    "id": 64,
+    "pronunciation": "いつ",
+    "value": "何時",
+    "translation": "quand ?",
+    "jlpt": 5
+  },
+  "65": {
+    "id": 65,
+    "pronunciation": "いつか",
+    "value": "五日",
+    "translation": "cinquième jour du mois, 5 jours",
+    "jlpt": 5
+  },
+  "66": {
+    "id": 66,
+    "pronunciation": "いっしゅうかん",
+    "value": "一週間",
+    "translation": "une semaine",
+    "jlpt": 5
+  },
+  "67": {
+    "id": 67,
+    "pronunciation": "いっしょ",
+    "value": "一緒",
+    "translation": "ensemble",
+    "jlpt": 5
+  },
+  "68": {
+    "id": 68,
+    "pronunciation": "いつつ",
+    "value": "五つ",
+    "translation": "cinq",
+    "jlpt": 5
+  },
+  "69": {
+    "id": 69,
+    "pronunciation": "いつも",
+    "value": "何時も",
+    "translation": "toujours, à chaque fois, jamais (+négatif)",
+    "jlpt": 5
+  },
+  "70": {
+    "id": 70,
+    "pronunciation": "いぬ",
+    "value": "犬",
+    "translation": "chien",
+    "jlpt": 5
+  },
+  "71": {
+    "id": 71,
+    "pronunciation": "いま",
+    "value": "今",
+    "translation": "maintenant",
+    "jlpt": 5
+  },
+  "72": {
+    "id": 72,
+    "pronunciation": "いみ",
+    "value": "意味",
+    "translation": "signification, sens",
+    "jlpt": 5
+  },
+  "73": {
+    "id": 73,
+    "pronunciation": "いもうと",
+    "value": "妹",
+    "translation": "petite-sœur",
+    "jlpt": 5
+  },
+  "74": {
+    "id": 74,
+    "pronunciation": "いや",
+    "value": "嫌・否",
+    "translation": "désagréable, déplaisant",
+    "jlpt": 5
+  },
+  "75": {
+    "id": 75,
+    "pronunciation": "",
+    "value": "いらっしゃいませ",
+    "translation": "bienvenue (dans notremagasin, notre restaurant)",
+    "jlpt": 5
+  },
+  "76": {
+    "id": 76,
+    "pronunciation": "いりぐち",
+    "value": "入り口",
+    "translation": "entrée",
+    "jlpt": 5
+  },
+  "77": {
+    "id": 77,
+    "pronunciation": "いる",
+    "value": "要る",
+    "translation": "avoir besoin, nécessiter",
+    "jlpt": 5
+  },
+  "78": {
+    "id": 78,
+    "pronunciation": "いれる",
+    "value": "入れる",
+    "translation": "introduire, mettre dedans, insérer, préparer (du thé, du café)",
+    "jlpt": 5
+  },
+  "79": {
+    "id": 79,
+    "pronunciation": "いろ",
+    "value": "色",
+    "translation": "couleur",
+    "jlpt": 5
+  },
+  "80": {
+    "id": 80,
+    "pronunciation": "いろいろ",
+    "value": "色々",
+    "translation": "divers, variés",
+    "jlpt": 5
+  },
+  "81": {
+    "id": 81,
+    "pronunciation": "うえ",
+    "value": "上",
+    "translation": "dessus",
+    "jlpt": 5
+  },
+  "82": {
+    "id": 82,
+    "pronunciation": "うしろ",
+    "value": "後ろ",
+    "translation": "derrière",
+    "jlpt": 5
+  },
+  "83": {
+    "id": 83,
+    "pronunciation": "うすい",
+    "value": "薄い",
+    "translation": "mince, pâle (pour une couleur)",
+    "jlpt": 5
+  },
+  "84": {
+    "id": 84,
+    "pronunciation": "うた",
+    "value": "歌",
+    "translation": "chanson, chant",
+    "jlpt": 5
+  },
+  "85": {
+    "id": 85,
+    "pronunciation": "うたう",
+    "value": "歌う",
+    "translation": "chanter",
+    "jlpt": 5
+  },
+  "86": {
+    "id": 86,
+    "pronunciation": "うち",
+    "value": "家・内",
+    "translation": "maison (sa), chez soi",
+    "jlpt": 5
+  },
+  "87": {
+    "id": 87,
+    "pronunciation": "うちで",
+    "value": "内で",
+    "translation": "chez soi",
+    "jlpt": 5
+  },
+  "88": {
+    "id": 88,
+    "pronunciation": "うまれる",
+    "value": "生まれる",
+    "translation": "naître",
+    "jlpt": 5
+  },
+  "89": {
+    "id": 89,
+    "pronunciation": "うみ",
+    "value": "海",
+    "translation": "mer",
+    "jlpt": 5
+  },
+  "90": {
+    "id": 90,
+    "pronunciation": "うる",
+    "value": "売る",
+    "translation": "vendre",
+    "jlpt": 5
+  },
+  "91": {
+    "id": 91,
+    "pronunciation": "うわぎ",
+    "value": "上着",
+    "translation": "manteau, veste",
+    "jlpt": 5
+  },
+  "92": {
+    "id": 92,
+    "pronunciation": "え",
+    "value": "絵",
+    "translation": "image, dessin",
+    "jlpt": 5
+  },
+  "93": {
+    "id": 93,
+    "pronunciation": "えいが",
+    "value": "映画",
+    "translation": "film",
+    "jlpt": 5
+  },
+  "94": {
+    "id": 94,
+    "pronunciation": "えいがかん",
+    "value": "映画館",
+    "translation": "cinéma (bâtiment)",
+    "jlpt": 5
+  },
+  "95": {
+    "id": 95,
+    "pronunciation": "えいご",
+    "value": "英語",
+    "translation": "langue anglaise",
+    "jlpt": 5
+  },
+  "96": {
+    "id": 96,
+    "pronunciation": "",
+    "value": "ええ",
+    "translation": "oui, en effet, c'est cela",
+    "jlpt": 5
+  },
+  "97": {
+    "id": 97,
+    "pronunciation": "えき",
+    "value": "駅",
+    "translation": "gare",
+    "jlpt": 5
+  },
+  "98": {
+    "id": 98,
+    "pronunciation": "",
+    "value": "エレベーター",
+    "translation": "ascenseur",
+    "jlpt": 5
+  },
+  "99": {
+    "id": 99,
+    "pronunciation": "えん",
+    "value": "円",
+    "translation": "yen",
+    "jlpt": 5
+  },
+  "100": {
+    "id": 100,
+    "pronunciation": "えんぴつ",
+    "value": "鉛筆",
+    "translation": "crayon",
+    "jlpt": 5
+  },
+  "101": {
+    "id": 101,
+    "pronunciation": "おいしい",
+    "value": "美味しい",
+    "translation": "bon, délicieux",
+    "jlpt": 5
+  },
+  "102": {
+    "id": 102,
+    "pronunciation": "おいでになる",
+    "value": "お出でになる",
+    "translation": "être, arriver (poli)",
+    "jlpt": 5
+  },
+  "103": {
+    "id": 103,
+    "pronunciation": "おおきい",
+    "value": "大きい",
+    "translation": "grand, large",
+    "jlpt": 5
+  },
+  "104": {
+    "id": 104,
+    "pronunciation": "おおぜい",
+    "value": "大勢",
+    "translation": "foule",
+    "jlpt": 5
+  },
+  "105": {
+    "id": 105,
+    "pronunciation": "おかあさん",
+    "value": "お母さん",
+    "translation": "mère (polie)",
+    "jlpt": 5
+  },
+  "106": {
+    "id": 106,
+    "pronunciation": "おかし",
+    "value": "お菓子",
+    "translation": "gâteau, confiserie",
+    "jlpt": 5
+  },
+  "107": {
+    "id": 107,
+    "pronunciation": "おかね",
+    "value": "お金",
+    "translation": "argent, monnaie",
+    "jlpt": 5
+  },
+  "108": {
+    "id": 108,
+    "pronunciation": "おきる",
+    "value": "起きる",
+    "translation": "se réveiller, se lever",
+    "jlpt": 5
+  },
+  "109": {
+    "id": 109,
+    "pronunciation": "おく",
+    "value": "置く",
+    "translation": "poser",
+    "jlpt": 5
+  },
+  "110": {
+    "id": 110,
+    "pronunciation": "おくさん",
+    "value": "奥さん",
+    "translation": "épouse (d'un autre)",
+    "jlpt": 5
+  },
+  "111": {
+    "id": 111,
+    "pronunciation": "おくる",
+    "value": "送る",
+    "translation": "envoyer, expédier, accompagner une personne",
+    "jlpt": 5
+  },
+  "112": {
+    "id": 112,
+    "pronunciation": "おげんきで",
+    "value": "お元気で",
+    "translation": "portez-vous bien, prends soin de toi",
+    "jlpt": 5
+  },
+  "113": {
+    "id": 113,
+    "pronunciation": "おじいさん",
+    "value": "お爺さん",
+    "translation": "grand-père (polie)",
+    "jlpt": 5
+  },
+  "114": {
+    "id": 114,
+    "pronunciation": "おしえる",
+    "value": "教える",
+    "translation": "enseigner, instruire",
+    "jlpt": 5
+  },
+  "115": {
+    "id": 115,
+    "pronunciation": "おじさん",
+    "value": "伯父さん・叔父さん",
+    "translation": "oncle (polie)",
+    "jlpt": 5
+  },
+  "116": {
+    "id": 116,
+    "pronunciation": "おす",
+    "value": "押す",
+    "translation": "pousser, presser",
+    "jlpt": 5
+  },
+  "117": {
+    "id": 117,
+    "pronunciation": "おそい",
+    "value": "遅い",
+    "translation": "lent",
+    "jlpt": 5
+  },
+  "118": {
+    "id": 118,
+    "pronunciation": "おちゃ",
+    "value": "お茶",
+    "translation": "thé",
+    "jlpt": 5
+  },
+  "119": {
+    "id": 119,
+    "pronunciation": "おてあらい",
+    "value": "お手洗い",
+    "translation": "toilettes",
+    "jlpt": 5
+  },
+  "120": {
+    "id": 120,
+    "pronunciation": "おとうさん",
+    "value": "お父さん",
+    "translation": "père (polie)",
+    "jlpt": 5
+  },
+  "121": {
+    "id": 121,
+    "pronunciation": "おとうと",
+    "value": "弟",
+    "translation": "petit-frère",
+    "jlpt": 5
+  },
+  "122": {
+    "id": 122,
+    "pronunciation": "おとこ",
+    "value": "男",
+    "translation": "homme",
+    "jlpt": 5
+  },
+  "123": {
+    "id": 123,
+    "pronunciation": "おとこのこ",
+    "value": "男の子",
+    "translation": "garçon",
+    "jlpt": 5
+  },
+  "124": {
+    "id": 124,
+    "pronunciation": "おととい・いっさくじつ",
+    "value": "一昨日",
+    "translation": "avant-hier",
+    "jlpt": 5
+  },
+  "125": {
+    "id": 125,
+    "pronunciation": "おととし・いっさくねん",
+    "value": "一昨年",
+    "translation": "l'année avant l'année dernière, il y a 2 ans",
+    "jlpt": 5
+  },
+  "126": {
+    "id": 126,
+    "pronunciation": "おとな",
+    "value": "大人",
+    "translation": "adulte, grande personne",
+    "jlpt": 5
+  },
+  "127": {
+    "id": 127,
+    "pronunciation": "おなか",
+    "value": "お腹",
+    "translation": "ventre, estomac",
+    "jlpt": 5
+  },
+  "128": {
+    "id": 128,
+    "pronunciation": "おなじ",
+    "value": "同じ",
+    "translation": "identique, égal",
+    "jlpt": 5
+  },
+  "129": {
+    "id": 129,
+    "pronunciation": "おにいさん",
+    "value": "お兄さん",
+    "translation": "grand-frère (polie)",
+    "jlpt": 5
+  },
+  "130": {
+    "id": 130,
+    "pronunciation": "おねえさん",
+    "value": "お姉さん",
+    "translation": "grande-soeur (polie)",
+    "jlpt": 5
+  },
+  "131": {
+    "id": 131,
+    "pronunciation": "おねがいします",
+    "value": "お願いします",
+    "translation": "s'il vous plaît",
+    "jlpt": 5
+  },
+  "132": {
+    "id": 132,
+    "pronunciation": "おば",
+    "value": "伯母・叔母",
+    "translation": "tante",
+    "jlpt": 5
+  },
+  "133": {
+    "id": 133,
+    "pronunciation": "おばあさん",
+    "value": "お婆さん",
+    "translation": "grand-mère (polie)",
+    "jlpt": 5
+  },
+  "134": {
+    "id": 134,
+    "pronunciation": "おばさん",
+    "value": "伯母さん・叔母さん",
+    "translation": "tante (polie)",
+    "jlpt": 5
+  },
+  "135": {
+    "id": 135,
+    "pronunciation": "おはようございます",
+    "value": "お早う御座います",
+    "translation": "bonjour (le matin)",
+    "jlpt": 5
+  },
+  "136": {
+    "id": 136,
+    "pronunciation": "おべんとう",
+    "value": "お弁当",
+    "translation": "bentô, panier-repas japonais",
+    "jlpt": 5
+  },
+  "137": {
+    "id": 137,
+    "pronunciation": "おぼえる",
+    "value": "覚える",
+    "translation": "se souvenir",
+    "jlpt": 5
+  },
+  "138": {
+    "id": 138,
+    "pronunciation": "おまわりさん",
+    "value": "お巡りさん",
+    "translation": "policier (désigné de manière amicale)",
+    "jlpt": 5
+  },
+  "139": {
+    "id": 139,
+    "pronunciation": "おもい",
+    "value": "重い",
+    "translation": "lourd, massif",
+    "jlpt": 5
+  },
+  "140": {
+    "id": 140,
+    "pronunciation": "おもしろい",
+    "value": "面白い",
+    "translation": "intéressant",
+    "jlpt": 5
+  },
+  "141": {
+    "id": 141,
+    "pronunciation": "おやすみなさい",
+    "value": "お休みなさい",
+    "translation": "bonne nuit",
+    "jlpt": 5
+  },
+  "142": {
+    "id": 142,
+    "pronunciation": "およぐ",
+    "value": "泳ぐ",
+    "translation": "nager",
+    "jlpt": 5
+  },
+  "143": {
+    "id": 143,
+    "pronunciation": "おりる",
+    "value": "降りる",
+    "translation": "descendre (d'une montagne, un bus...)",
+    "jlpt": 5
+  },
+  "144": {
+    "id": 144,
+    "pronunciation": "おわる",
+    "value": "終わる",
+    "translation": "finir",
+    "jlpt": 5
+  },
+  "145": {
+    "id": 145,
+    "pronunciation": "おんがく",
+    "value": "音楽",
+    "translation": "musique, mouvement (musique)",
+    "jlpt": 5
+  },
+  "146": {
+    "id": 146,
+    "pronunciation": "おんな",
+    "value": "女",
+    "translation": "femme",
+    "jlpt": 5
+  },
+  "147": {
+    "id": 147,
+    "pronunciation": "おんなのこ",
+    "value": "女の子",
+    "translation": "fille",
+    "jlpt": 5
+  },
+  "148": {
+    "id": 148,
+    "pronunciation": "かい",
+    "value": "回",
+    "translation": "compteur pour le nombre de fois",
+    "jlpt": 5
+  },
+  "149": {
+    "id": 149,
+    "pronunciation": "かい",
+    "value": "階c",
+    "translation": "ompteur pour les étages",
+    "jlpt": 5
+  },
+  "150": {
+    "id": 150,
+    "pronunciation": "がいこく",
+    "value": "外国",
+    "translation": "pays étranger",
+    "jlpt": 5
+  },
+  "151": {
+    "id": 151,
+    "pronunciation": "がいこくじん",
+    "value": "外国人",
+    "translation": "étranger",
+    "jlpt": 5
+  },
+  "152": {
+    "id": 152,
+    "pronunciation": "かいしゃ",
+    "value": "会社",
+    "translation": "entreprise",
+    "jlpt": 5
+  },
+  "153": {
+    "id": 153,
+    "pronunciation": "かいだん",
+    "value": "階段",
+    "translation": "escaliers",
+    "jlpt": 5
+  },
+  "154": {
+    "id": 154,
+    "pronunciation": "かいもの",
+    "value": "買い物",
+    "translation": "achats, courses",
+    "jlpt": 5
+  },
+  "155": {
+    "id": 155,
+    "pronunciation": "かう",
+    "value": "買う",
+    "translation": "acheter",
+    "jlpt": 5
+  },
+  "156": {
+    "id": 156,
+    "pronunciation": "かえす",
+    "value": "返す",
+    "translation": "retourner, renvoyer quelque chose",
+    "jlpt": 5
+  },
+  "157": {
+    "id": 157,
+    "pronunciation": "かお",
+    "value": "顔",
+    "translation": "visage",
+    "jlpt": 5
+  },
+  "158": {
+    "id": 158,
+    "pronunciation": "かかる",
+    "value": "掛かる",
+    "translation": "prendre (du temps, de l'argent), être accroché, être suspendu, être couvert (par une assurance, un contrat...)",
+    "jlpt": 5
+  },
+  "159": {
+    "id": 159,
+    "pronunciation": "かぎ",
+    "value": "鍵",
+    "translation": "clé",
+    "jlpt": 5
+  },
+  "160": {
+    "id": 160,
+    "pronunciation": "かく",
+    "value": "書く",
+    "translation": "écrire",
+    "jlpt": 5
+  },
+  "161": {
+    "id": 161,
+    "pronunciation": "がくせい",
+    "value": "学生",
+    "translation": "étudiant",
+    "jlpt": 5
+  },
+  "162": {
+    "id": 162,
+    "pronunciation": "かげつ",
+    "value": "ヶ月・箇月",
+    "translation": "compteur pour le nombre de mois",
+    "jlpt": 5
+  },
+  "163": {
+    "id": 163,
+    "pronunciation": "かける",
+    "value": "掛ける",
+    "translation": "accrocher, porter (des lunettes...), appeler (au téléphone), prendre, dépenser (de l'argent, du temps)",
+    "jlpt": 5
+  },
+  "164": {
+    "id": 164,
+    "pronunciation": "かさ",
+    "value": "傘",
+    "translation": "parapluie",
+    "jlpt": 5
+  },
+  "165": {
+    "id": 165,
+    "pronunciation": "かす",
+    "value": "貸す",
+    "translation": "prêter",
+    "jlpt": 5
+  },
+  "166": {
+    "id": 166,
+    "pronunciation": "かぜ",
+    "value": "風邪",
+    "translation": "rhume",
+    "jlpt": 5
+  },
+  "167": {
+    "id": 167,
+    "pronunciation": "かぜ",
+    "value": "風",
+    "translation": "vent",
+    "jlpt": 5
+  },
+  "168": {
+    "id": 168,
+    "pronunciation": "かぞく",
+    "value": "家族",
+    "translation": "famille",
+    "jlpt": 5
+  },
+  "169": {
+    "id": 169,
+    "pronunciation": "かた",
+    "value": "方",
+    "translation": "personne (poli)",
+    "jlpt": 5
+  },
+  "170": {
+    "id": 170,
+    "pronunciation": "かたかな",
+    "value": "片仮名",
+    "translation": "katakana (un des syllabaires japonais)",
+    "jlpt": 5
+  },
+  "171": {
+    "id": 171,
+    "pronunciation": "がつ",
+    "value": "月",
+    "translation": "mois de l'année",
+    "jlpt": 5
+  },
+  "172": {
+    "id": 172,
+    "pronunciation": "がっこう",
+    "value": "学校",
+    "translation": "école",
+    "jlpt": 5
+  },
+  "173": {
+    "id": 173,
+    "pronunciation": "かてい",
+    "value": "家庭",
+    "translation": "famille (sa), maison (sa)",
+    "jlpt": 5
+  },
+  "174": {
+    "id": 174,
+    "pronunciation": "かど",
+    "value": "角",
+    "translation": "coin (d'une rue, d'un trottoir...), rebord, bord",
+    "jlpt": 5
+  },
+  "175": {
+    "id": 175,
+    "pronunciation": "かない",
+    "value": "家内",
+    "translation": "épouse (la nôtre)",
+    "jlpt": 5
+  },
+  "176": {
+    "id": 176,
+    "pronunciation": "かね",
+    "value": "金",
+    "translation": "argent, monnaie",
+    "jlpt": 5
+  },
+  "177": {
+    "id": 177,
+    "pronunciation": "かばん",
+    "value": "鞄",
+    "translation": "sac, cartable",
+    "jlpt": 5
+  },
+  "178": {
+    "id": 178,
+    "pronunciation": "かびん",
+    "value": "花瓶",
+    "translation": "vase",
+    "jlpt": 5
+  },
+  "179": {
+    "id": 179,
+    "pronunciation": "かぶる",
+    "value": "被る",
+    "translation": "porter quelque chose sur la tête, être recouvert (d'eau, de poussière...), supporter (un défaut, un manque...)",
+    "jlpt": 5
+  },
+  "180": {
+    "id": 180,
+    "pronunciation": "かみ",
+    "value": "紙",
+    "translation": "papier",
+    "jlpt": 5
+  },
+  "181": {
+    "id": 181,
+    "pronunciation": "",
+    "value": "カメラ",
+    "translation": "appareil photo",
+    "jlpt": 5
+  },
+  "182": {
+    "id": 182,
+    "pronunciation": "かようび",
+    "value": "火曜日",
+    "translation": "mardi",
+    "jlpt": 5
+  },
+  "183": {
+    "id": 183,
+    "pronunciation": "からい",
+    "value": "辛い",
+    "translation": "épicé",
+    "jlpt": 5
+  },
+  "184": {
+    "id": 184,
+    "pronunciation": "かりる",
+    "value": "借りる",
+    "translation": "emprunter, louer",
+    "jlpt": 5
+  },
+  "185": {
+    "id": 185,
+    "pronunciation": "かるい",
+    "value": "軽い",
+    "translation": "léger, mineur, peu sérieux",
+    "jlpt": 5
+  },
+  "186": {
+    "id": 186,
+    "pronunciation": "",
+    "value": "カレンダー",
+    "translation": "calendrier",
+    "jlpt": 5
+  },
+  "187": {
+    "id": 187,
+    "pronunciation": "かわ",
+    "value": "川・河",
+    "translation": "rivière, cours d'eau",
+    "jlpt": 5
+  },
+  "188": {
+    "id": 188,
+    "pronunciation": "かわいい",
+    "value": "可愛い",
+    "translation": "adorable, mignon",
+    "jlpt": 5
+  },
+  "189": {
+    "id": 189,
+    "pronunciation": "かんじ",
+    "value": "漢字",
+    "translation": "caractères chinois, kanji",
+    "jlpt": 5
+  },
+  "190": {
+    "id": 190,
+    "pronunciation": "き",
+    "value": "木",
+    "translation": "arbre, bois (la matière)",
+    "jlpt": 5
+  },
+  "191": {
+    "id": 191,
+    "pronunciation": "きいろ",
+    "value": "黄色",
+    "translation": "jaune",
+    "jlpt": 5
+  },
+  "192": {
+    "id": 192,
+    "pronunciation": "きいろい",
+    "value": "黄色い",
+    "translation": "jaune",
+    "jlpt": 5
+  },
+  "193": {
+    "id": 193,
+    "pronunciation": "きえる",
+    "value": "消える",
+    "translation": "disparaître, s'éteindre, s'effacer",
+    "jlpt": 5
+  },
+  "194": {
+    "id": 194,
+    "pronunciation": "きく",
+    "value": "聞く",
+    "translation": "écouter, entendre, demander",
+    "jlpt": 5
+  },
+  "195": {
+    "id": 195,
+    "pronunciation": "きた",
+    "value": "北",
+    "translation": "nord",
+    "jlpt": 5
+  },
+  "196": {
+    "id": 196,
+    "pronunciation": "",
+    "value": "ギター",
+    "translation": "guitare",
+    "jlpt": 5
+  },
+  "197": {
+    "id": 197,
+    "pronunciation": "きたない",
+    "value": "汚い",
+    "translation": "sale",
+    "jlpt": 5
+  },
+  "198": {
+    "id": 198,
+    "pronunciation": "きっさ",
+    "value": "喫茶",
+    "translation": "salon de thé",
+    "jlpt": 5
+  },
+  "199": {
+    "id": 199,
+    "pronunciation": "きっさてん",
+    "value": "喫茶店",
+    "translation": "salon de thé, café (lieux)",
+    "jlpt": 5
+  },
+  "200": {
+    "id": 200,
+    "pronunciation": "きって",
+    "value": "切手",
+    "translation": "timbre",
+    "jlpt": 5
+  },
+  "201": {
+    "id": 201,
+    "pronunciation": "きっぷ",
+    "value": "切符",
+    "translation": "ticket, billet",
+    "jlpt": 5
+  },
+  "202": {
+    "id": 202,
+    "pronunciation": "きのう",
+    "value": "昨日",
+    "translation": "hier",
+    "jlpt": 5
+  },
+  "203": {
+    "id": 203,
+    "pronunciation": "きゅう・く",
+    "value": "九",
+    "translation": "neuf",
+    "jlpt": 5
+  },
+  "204": {
+    "id": 204,
+    "pronunciation": "ぎゅうにく",
+    "value": "牛肉",
+    "translation": "viande de boeuf",
+    "jlpt": 5
+  },
+  "205": {
+    "id": 205,
+    "pronunciation": "ぎゅうにゅう",
+    "value": "牛乳",
+    "translation": "lait de vache",
+    "jlpt": 5
+  },
+  "206": {
+    "id": 206,
+    "pronunciation": "きょう・こんにち",
+    "value": "今日",
+    "translation": "aujourd'hui",
+    "jlpt": 5
+  },
+  "207": {
+    "id": 207,
+    "pronunciation": "きょうしつ",
+    "value": "教室",
+    "translation": "salle de classe",
+    "jlpt": 5
+  },
+  "208": {
+    "id": 208,
+    "pronunciation": "きょうだい",
+    "value": "兄弟",
+    "translation": "frères et soeurs (d'une même famille), frères",
+    "jlpt": 5
+  },
+  "209": {
+    "id": 209,
+    "pronunciation": "きょねん",
+    "value": "去年",
+    "translation": "année dernière",
+    "jlpt": 5
+  },
+  "210": {
+    "id": 210,
+    "pronunciation": "きらい",
+    "value": "嫌い",
+    "translation": "détesté",
+    "jlpt": 5
+  },
+  "211": {
+    "id": 211,
+    "pronunciation": "きる",
+    "value": "切る",
+    "translation": "couper",
+    "jlpt": 5
+  },
+  "212": {
+    "id": 212,
+    "pronunciation": "きる",
+    "value": "着る",
+    "translation": "enfiler un vêtement sur les épaules, s'habiller",
+    "jlpt": 5
+  },
+  "213": {
+    "id": 213,
+    "pronunciation": "きれい",
+    "value": "奇麗・綺麗",
+    "translation": "beau, propre, joli, clair",
+    "jlpt": 5
+  },
+  "214": {
+    "id": 214,
+    "pronunciation": "",
+    "value": "キログラム",
+    "translation": "kilogramme",
+    "jlpt": 5
+  },
+  "215": {
+    "id": 215,
+    "pronunciation": "",
+    "value": "キロメートル",
+    "translation": "kilomètre",
+    "jlpt": 5
+  },
+  "216": {
+    "id": 216,
+    "pronunciation": "ぎんこう",
+    "value": "銀行",
+    "translation": "banque",
+    "jlpt": 5
+  },
+  "217": {
+    "id": 217,
+    "pronunciation": "きんようび",
+    "value": "金曜日",
+    "translation": "vendredi",
+    "jlpt": 5
+  },
+  "218": {
+    "id": 218,
+    "pronunciation": "くすり",
+    "value": "薬",
+    "translation": "médicament",
+    "jlpt": 5
+  },
+  "219": {
+    "id": 219,
+    "pronunciation": "くだもの",
+    "value": "果物",
+    "translation": "fruit",
+    "jlpt": 5
+  },
+  "220": {
+    "id": 220,
+    "pronunciation": "くち",
+    "value": "口",
+    "translation": "bouche, ouverture",
+    "jlpt": 5
+  },
+  "221": {
+    "id": 221,
+    "pronunciation": "くつ",
+    "value": "靴",
+    "translation": "chaussures",
+    "jlpt": 5
+  },
+  "222": {
+    "id": 222,
+    "pronunciation": "くつした",
+    "value": "靴下",
+    "translation": "chaussettes",
+    "jlpt": 5
+  },
+  "223": {
+    "id": 223,
+    "pronunciation": "くに",
+    "value": "国",
+    "translation": "pays, région, province",
+    "jlpt": 5
+  },
+  "224": {
+    "id": 224,
+    "pronunciation": "くもり",
+    "value": "曇り",
+    "translation": "nuageux",
+    "jlpt": 5
+  },
+  "225": {
+    "id": 225,
+    "pronunciation": "くらい",
+    "value": "暗い",
+    "translation": "sombre",
+    "jlpt": 5
+  },
+  "226": {
+    "id": 226,
+    "pronunciation": "",
+    "value": "くらい・ぐらい",
+    "translation": "environ",
+    "jlpt": 5
+  },
+  "227": {
+    "id": 227,
+    "pronunciation": "",
+    "value": "クラス",
+    "translation": "classe",
+    "jlpt": 5
+  },
+  "228": {
+    "id": 228,
+    "pronunciation": "",
+    "value": "グラム",
+    "translation": "gramme",
+    "jlpt": 5
+  },
+  "229": {
+    "id": 229,
+    "pronunciation": "くる",
+    "value": "来る",
+    "translation": "sarriver, venir",
+    "jlpt": 5
+  },
+  "230": {
+    "id": 230,
+    "pronunciation": "くるま",
+    "value": "車",
+    "translation": "voiture, automobile",
+    "jlpt": 5
+  },
+  "231": {
+    "id": 231,
+    "pronunciation": "くろ",
+    "value": "黒",
+    "translation": "noir (le)",
+    "jlpt": 5
+  },
+  "232": {
+    "id": 232,
+    "pronunciation": "くろい",
+    "value": "黒い",
+    "translation": "noir",
+    "jlpt": 5
+  },
+  "233": {
+    "id": 233,
+    "pronunciation": "けさ",
+    "value": "今朝",
+    "translation": "ce matin",
+    "jlpt": 5
+  },
+  "234": {
+    "id": 234,
+    "pronunciation": "けす",
+    "value": "消す",
+    "translation": "éteindre (un appareil, un feu), effacer, supprimer",
+    "jlpt": 5
+  },
+  "235": {
+    "id": 235,
+    "pronunciation": "けっこう",
+    "value": "結構",
+    "translation": "bien, merveilleux",
+    "jlpt": 5
+  },
+  "236": {
+    "id": 236,
+    "pronunciation": "けっこうです",
+    "value": "結構です",
+    "translation": "c'est OK, raisonnable, ça me convient",
+    "jlpt": 5
+  },
+  "237": {
+    "id": 237,
+    "pronunciation": "けっこん",
+    "value": "結婚",
+    "translation": "mariage",
+    "jlpt": 5
+  },
+  "238": {
+    "id": 238,
+    "pronunciation": "けっこんする",
+    "value": "結婚する",
+    "translation": "se marier",
+    "jlpt": 5
+  },
+  "239": {
+    "id": 239,
+    "pronunciation": "げつようび",
+    "value": "月曜日",
+    "translation": "lundi",
+    "jlpt": 5
+  },
+  "240": {
+    "id": 240,
+    "pronunciation": "げんかん",
+    "value": "玄関",
+    "translation": "hall d'entrée, vestibule",
+    "jlpt": 5
+  },
+  "241": {
+    "id": 241,
+    "pronunciation": "げんき",
+    "value": "元気",
+    "translation": "énergique, en bonne santé",
+    "jlpt": 5
+  },
+  "242": {
+    "id": 242,
+    "pronunciation": "ご",
+    "value": "五",
+    "translation": "cinq",
+    "jlpt": 5
+  },
+  "243": {
+    "id": 243,
+    "pronunciation": "ご・",
+    "value": "お御",
+    "translation": "préfixe honorifique",
+    "jlpt": 5
+  },
+  "244": {
+    "id": 244,
+    "pronunciation": "こうえん",
+    "value": "公園",
+    "translation": "parc public, jardin public",
+    "jlpt": 5
+  },
+  "245": {
+    "id": 245,
+    "pronunciation": "こうちゃ",
+    "value": "紅茶",
+    "translation": "thé noir",
+    "jlpt": 5
+  },
+  "246": {
+    "id": 246,
+    "pronunciation": "こうばん",
+    "value": "交番",
+    "translation": "petit poste de police",
+    "jlpt": 5
+  },
+  "247": {
+    "id": 247,
+    "pronunciation": "こえ",
+    "value": "声",
+    "translation": "voix",
+    "jlpt": 5
+  },
+  "248": {
+    "id": 248,
+    "pronunciation": "",
+    "value": "コート",
+    "translation": "manteau, veste, court (de tennis, de basket...)",
+    "jlpt": 5
+  },
+  "249": {
+    "id": 249,
+    "pronunciation": "",
+    "value": "コーヒー",
+    "translation": "café",
+    "jlpt": 5
+  },
+  "250": {
+    "id": 250,
+    "pronunciation": "ここ",
+    "value": "此所",
+    "translation": "ici (proche du locuteur)",
+    "jlpt": 5
+  },
+  "251": {
+    "id": 251,
+    "pronunciation": "ごご",
+    "value": "午後",
+    "translation": "après-midi",
+    "jlpt": 5
+  },
+  "252": {
+    "id": 252,
+    "pronunciation": "ここのか",
+    "value": "九日",
+    "translation": "neuvième jour du mois, 9 jours",
+    "jlpt": 5
+  },
+  "253": {
+    "id": 253,
+    "pronunciation": "ここのつ",
+    "value": "九つ",
+    "translation": "neuf",
+    "jlpt": 5
+  },
+  "254": {
+    "id": 254,
+    "pronunciation": "ごしゅじん",
+    "value": "ご主人",
+    "translation": "mari (de quelqu'un) (polie)",
+    "jlpt": 5
+  },
+  "255": {
+    "id": 255,
+    "pronunciation": "ごぜん",
+    "value": "午前",
+    "translation": "matin",
+    "jlpt": 5
+  },
+  "256": {
+    "id": 256,
+    "pronunciation": "こたえる",
+    "value": "答える",
+    "translation": "répondre",
+    "jlpt": 5
+  },
+  "257": {
+    "id": 257,
+    "pronunciation": "ごちそうさまでした",
+    "value": "ご馳走様でした",
+    "translation": "merci pour ce repas (après avoir mangé)",
+    "jlpt": 5
+  },
+  "258": {
+    "id": 258,
+    "pronunciation": "こちら",
+    "value": "此方",
+    "translation": "ce côté-ci (proche du locuteur)",
+    "jlpt": 5
+  },
+  "259": {
+    "id": 259,
+    "pronunciation": "",
+    "value": "こちらこそ",
+    "translation": "de même",
+    "jlpt": 5
+  },
+  "260": {
+    "id": 260,
+    "pronunciation": "",
+    "value": "コップ",
+    "translation": "verre (contenu)",
+    "jlpt": 5
+  },
+  "261": {
+    "id": 261,
+    "pronunciation": "ことし",
+    "value": "今年",
+    "translation": "cette année",
+    "jlpt": 5
+  },
+  "262": {
+    "id": 262,
+    "pronunciation": "ことば",
+    "value": "言葉",
+    "translation": "mot, langage, phrase, parole",
+    "jlpt": 5
+  },
+  "263": {
+    "id": 263,
+    "pronunciation": "こども",
+    "value": "子供",
+    "translation": "enfant",
+    "jlpt": 5
+  },
+  "264": {
+    "id": 264,
+    "pronunciation": "この",
+    "value": "此の",
+    "translation": "ce (proche du locuteur)",
+    "jlpt": 5
+  },
+  "265": {
+    "id": 265,
+    "pronunciation": "ごはん",
+    "value": "ご飯",
+    "translation": "riz cuit, repas",
+    "jlpt": 5
+  },
+  "266": {
+    "id": 266,
+    "pronunciation": "こまる",
+    "value": "困る",
+    "translation": "être gêné, être embarrassé",
+    "jlpt": 5
+  },
+  "267": {
+    "id": 267,
+    "pronunciation": "ごめんください",
+    "value": "ご免下さい",
+    "translation": "puis-je rentrer ? (dans la maison de quelqu'un d'autre)",
+    "jlpt": 5
+  },
+  "268": {
+    "id": 268,
+    "pronunciation": "ごめんなさい",
+    "value": "ご免なさい",
+    "translation": "désolé, excusez moi",
+    "jlpt": 5
+  },
+  "269": {
+    "id": 269,
+    "pronunciation": "これ",
+    "value": "惟",
+    "translation": "ceci (proche du locuteur)",
+    "jlpt": 5
+  },
+  "270": {
+    "id": 270,
+    "pronunciation": "",
+    "value": "ころ・ごろ",
+    "translation": "vers (pour l'heure)",
+    "jlpt": 5
+  },
+  "271": {
+    "id": 271,
+    "pronunciation": "こんげつ",
+    "value": "今月",
+    "translation": "ce mois-ci",
+    "jlpt": 5
+  },
+  "272": {
+    "id": 272,
+    "pronunciation": "こんしゅう",
+    "value": "今週",
+    "translation": "cette semaine",
+    "jlpt": 5
+  },
+  "273": {
+    "id": 273,
+    "pronunciation": "",
+    "value": "こんな",
+    "translation": "cette sorte de",
+    "jlpt": 5
+  },
+  "274": {
+    "id": 274,
+    "pronunciation": "こんにちは",
+    "value": "今日は",
+    "translation": "bonjour (l'après-midi)",
+    "jlpt": 5
+  },
+  "275": {
+    "id": 275,
+    "pronunciation": "こんばん",
+    "value": "今晩",
+    "translation": "ce soir",
+    "jlpt": 5
+  },
+  "276": {
+    "id": 276,
+    "pronunciation": "こんばんは",
+    "value": "今晩は",
+    "translation": "bonsoir",
+    "jlpt": 5
+  },
+  "277": {
+    "id": 277,
+    "pronunciation": "さい",
+    "value": "歳",
+    "translation": "ans (pour l'âge)",
+    "jlpt": 5
+  },
+  "278": {
+    "id": 278,
+    "pronunciation": "さかな",
+    "value": "魚",
+    "translation": "poisson",
+    "jlpt": 5
+  },
+  "279": {
+    "id": 279,
+    "pronunciation": "さき",
+    "value": "先",
+    "translation": "précédent, antérieur",
+    "jlpt": 5
+  },
+  "280": {
+    "id": 280,
+    "pronunciation": "さく",
+    "value": "咲く",
+    "translation": "fleurir, éclore",
+    "jlpt": 5
+  },
+  "281": {
+    "id": 281,
+    "pronunciation": "さくぶん",
+    "value": "作文",
+    "translation": "composition, essai (écrit), rédaction",
+    "jlpt": 5
+  },
+  "282": {
+    "id": 282,
+    "pronunciation": "さけ",
+    "value": "酒",
+    "translation": "alcool, sake",
+    "jlpt": 5
+  },
+  "283": {
+    "id": 283,
+    "pronunciation": "さす",
+    "value": "差す",
+    "translation": "ouvrir (un parapluie)",
+    "jlpt": 5
+  },
+  "284": {
+    "id": 284,
+    "pronunciation": "さつ",
+    "value": "冊",
+    "translation": "compteur pour les livres",
+    "jlpt": 5
+  },
+  "285": {
+    "id": 285,
+    "pronunciation": "ざっし",
+    "value": "雑誌",
+    "translation": "revue, magazine",
+    "jlpt": 5
+  },
+  "286": {
+    "id": 286,
+    "pronunciation": "さとう",
+    "value": "砂糖",
+    "translation": "sucre",
+    "jlpt": 5
+  },
+  "287": {
+    "id": 287,
+    "pronunciation": "さむい",
+    "value": "寒い",
+    "translation": "froid (temps météo.)",
+    "jlpt": 5
+  },
+  "288": {
+    "id": 288,
+    "pronunciation": "さようなら",
+    "value": "左様なら",
+    "translation": "au revoir, adieu",
+    "jlpt": 5
+  },
+  "289": {
+    "id": 289,
+    "pronunciation": "",
+    "value": "さよなら",
+    "translation": "au revoir",
+    "jlpt": 5
+  },
+  "290": {
+    "id": 290,
+    "pronunciation": "さら",
+    "value": "皿",
+    "translation": "assiette",
+    "jlpt": 5
+  },
+  "291": {
+    "id": 291,
+    "pronunciation": "さらいねん",
+    "value": "再来年",
+    "translation": "dans deux ans",
+    "jlpt": 5
+  },
+  "292": {
+    "id": 292,
+    "pronunciation": "さん",
+    "value": "三",
+    "translation": "trois",
+    "jlpt": 5
+  },
+  "293": {
+    "id": 293,
+    "pronunciation": "",
+    "value": "さん",
+    "translation": "suffixe pour les noms (Mme, Mr)",
+    "jlpt": 5
+  },
+  "294": {
+    "id": 294,
+    "pronunciation": "さんぽ",
+    "value": "散歩",
+    "translation": "promenade, balade",
+    "jlpt": 5
+  },
+  "295": {
+    "id": 295,
+    "pronunciation": "さんぽする",
+    "value": "散歩する",
+    "translation": "se promener",
+    "jlpt": 5
+  },
+  "296": {
+    "id": 296,
+    "pronunciation": "し",
+    "value": "四",
+    "translation": "quatre",
+    "jlpt": 5
+  },
+  "297": {
+    "id": 297,
+    "pronunciation": "じ",
+    "value": "時",
+    "translation": "heure (comme dans : 6h du matin, 18h...)",
+    "jlpt": 5
+  },
+  "298": {
+    "id": 298,
+    "pronunciation": "しお",
+    "value": "塩",
+    "translation": "sel",
+    "jlpt": 5
+  },
+  "299": {
+    "id": 299,
+    "pronunciation": "しかし",
+    "value": "併し",
+    "translation": "mais, cependant, pourtant, toutefois",
+    "jlpt": 5
+  },
+  "300": {
+    "id": 300,
+    "pronunciation": "じかん",
+    "value": "時間",
+    "translation": "heure, temps",
+    "jlpt": 5
+  },
+  "301": {
+    "id": 301,
+    "pronunciation": "しごと",
+    "value": "仕事",
+    "translation": "travail, emploi",
+    "jlpt": 5
+  },
+  "302": {
+    "id": 302,
+    "pronunciation": "じしょ",
+    "value": "辞書",
+    "translation": "dictionnaire",
+    "jlpt": 5
+  },
+  "303": {
+    "id": 303,
+    "pronunciation": "しずか",
+    "value": "静か",
+    "translation": "calme",
+    "jlpt": 5
+  },
+  "304": {
+    "id": 304,
+    "pronunciation": "した",
+    "value": "下",
+    "translation": "dessous",
+    "jlpt": 5
+  },
+  "305": {
+    "id": 305,
+    "pronunciation": "しつもん",
+    "value": "質問",
+    "translation": "question, demande de renseignement",
+    "jlpt": 5
+  },
+  "306": {
+    "id": 306,
+    "pronunciation": "しつもんする",
+    "value": "質問する",
+    "translation": "poser une question",
+    "jlpt": 5
+  },
+  "307": {
+    "id": 307,
+    "pronunciation": "しつれいしました",
+    "value": "失礼しました",
+    "translation": "excusez-moi, je suis désolé",
+    "jlpt": 5
+  },
+  "308": {
+    "id": 308,
+    "pronunciation": "しつれいします",
+    "value": "失礼します",
+    "translation": "excusez-moi",
+    "jlpt": 5
+  },
+  "309": {
+    "id": 309,
+    "pronunciation": "じてんしゃ",
+    "value": "自転車",
+    "translation": "vélo",
+    "jlpt": 5
+  },
+  "310": {
+    "id": 310,
+    "pronunciation": "じどうしゃ",
+    "value": "自動車",
+    "translation": "véhicule",
+    "jlpt": 5
+  },
+  "311": {
+    "id": 311,
+    "pronunciation": "しぬ",
+    "value": "死ぬ",
+    "translation": "mourir",
+    "jlpt": 5
+  },
+  "312": {
+    "id": 312,
+    "pronunciation": "じびき",
+    "value": "字引",
+    "translation": "dictionnaire",
+    "jlpt": 5
+  },
+  "313": {
+    "id": 313,
+    "pronunciation": "じぶん",
+    "value": "自分",
+    "translation": "soi-même, elle-même, lui-même",
+    "jlpt": 5
+  },
+  "314": {
+    "id": 314,
+    "pronunciation": "しまる",
+    "value": "閉まる",
+    "translation": "se fermer",
+    "jlpt": 5
+  },
+  "315": {
+    "id": 315,
+    "pronunciation": "しめる",
+    "value": "締める",
+    "translation": "attacher",
+    "jlpt": 5
+  },
+  "316": {
+    "id": 316,
+    "pronunciation": "しめる",
+    "value": "閉める",
+    "translation": "fermer",
+    "jlpt": 5
+  },
+  "317": {
+    "id": 317,
+    "pronunciation": "しゃしん",
+    "value": "写真",
+    "translation": "photographie",
+    "jlpt": 5
+  },
+  "318": {
+    "id": 318,
+    "pronunciation": "しゃしんをとる",
+    "value": "写真を撮る",
+    "translation": "prendre une photo",
+    "jlpt": 5
+  },
+  "319": {
+    "id": 319,
+    "pronunciation": "",
+    "value": "シャツ",
+    "translation": "*chemise, chemisier",
+    "jlpt": 5
+  },
+  "320": {
+    "id": 320,
+    "pronunciation": "",
+    "value": "シャワー",
+    "translation": "douche",
+    "jlpt": 5
+  },
+  "321": {
+    "id": 321,
+    "pronunciation": "じゅう",
+    "value": "中",
+    "translation": "à travers, partout dans, partout en",
+    "jlpt": 5
+  },
+  "322": {
+    "id": 322,
+    "pronunciation": "じゅう・とお",
+    "value": "十",
+    "translation": "dix",
+    "jlpt": 5
+  },
+  "323": {
+    "id": 323,
+    "pronunciation": "しゅうかん",
+    "value": "週間",
+    "translation": "semaine",
+    "jlpt": 5
+  },
+  "324": {
+    "id": 324,
+    "pronunciation": "せん",
+    "value": "千",
+    "translation": "mille",
+    "jlpt": 5
+  },
+  "325": {
+    "id": 325,
+    "pronunciation": "せんげつ",
+    "value": "先月",
+    "translation": "mois dernier",
+    "jlpt": 5
+  },
+  "326": {
+    "id": 326,
+    "pronunciation": "せんしゅう",
+    "value": "先週",
+    "translation": "semaine dernière",
+    "jlpt": 5
+  },
+  "327": {
+    "id": 327,
+    "pronunciation": "せんせい",
+    "value": "先生",
+    "translation": "professeur, enseignant",
+    "jlpt": 5
+  },
+  "328": {
+    "id": 328,
+    "pronunciation": "せんたく",
+    "value": "洗濯",
+    "translation": "lessive",
+    "jlpt": 5
+  },
+  "329": {
+    "id": 329,
+    "pronunciation": "せんたくする",
+    "value": "洗濯する",
+    "translation": "*faire la lessive",
+    "jlpt": 5
+  },
+  "330": {
+    "id": 330,
+    "pronunciation": "ぜんぶ",
+    "value": "全部",
+    "translation": "totalement, en entier",
+    "jlpt": 5
+  },
+  "331": {
+    "id": 331,
+    "pronunciation": "そうじする",
+    "value": "掃除する",
+    "translation": "faire le ménage",
+    "jlpt": 5
+  },
+  "332": {
+    "id": 332,
+    "pronunciation": "そうして",
+    "value": "然うして",
+    "translation": "et ensuite, et après",
+    "jlpt": 5
+  },
+  "333": {
+    "id": 333,
+    "pronunciation": "そこ",
+    "value": "其処",
+    "translation": "là (proche de l'interlocuteur)",
+    "jlpt": 5
+  },
+  "334": {
+    "id": 334,
+    "pronunciation": "そと",
+    "value": "外",
+    "translation": "dehors, extérieur, à l'air libre",
+    "jlpt": 5
+  },
+  "335": {
+    "id": 335,
+    "pronunciation": "その",
+    "value": "其の",
+    "translation": "ce (proche de l'interlocuteur)",
+    "jlpt": 5
+  },
+  "336": {
+    "id": 336,
+    "pronunciation": "そのほか",
+    "value": "その他",
+    "translation": "divers",
+    "jlpt": 5
+  },
+  "337": {
+    "id": 337,
+    "pronunciation": "そば",
+    "value": "側",
+    "translation": "proche de, à côté de",
+    "jlpt": 5
+  },
+  "338": {
+    "id": 338,
+    "pronunciation": "そら",
+    "value": "空",
+    "translation": "ciel",
+    "jlpt": 5
+  },
+  "339": {
+    "id": 339,
+    "pronunciation": "それ",
+    "value": "其れ",
+    "translation": "ceci (proche de l'interlocuteur)",
+    "jlpt": 5
+  },
+  "340": {
+    "id": 340,
+    "pronunciation": "それから",
+    "value": "其れから",
+    "translation": "ensuite, après, depuis lors",
+    "jlpt": 5
+  },
+  "341": {
+    "id": 341,
+    "pronunciation": "それでわ",
+    "value": "其れでは",
+    "translation": "dans ce cas, alors, donc",
+    "jlpt": 5
+  },
+  "342": {
+    "id": 342,
+    "pronunciation": "だい",
+    "value": "台",
+    "translation": "support, socle, table",
+    "jlpt": 5
+  },
+  "343": {
+    "id": 343,
+    "pronunciation": "だい",
+    "value": "台",
+    "translation": "compteur pour le nombre de voitures",
+    "jlpt": 5
+  },
+  "344": {
+    "id": 344,
+    "pronunciation": "だいがく",
+    "value": "大学",
+    "translation": "université",
+    "jlpt": 5
+  },
+  "345": {
+    "id": 345,
+    "pronunciation": "たいしかん",
+    "value": "大使館",
+    "translation": "ambassade",
+    "jlpt": 5
+  },
+  "346": {
+    "id": 346,
+    "pronunciation": "だいじょうぶ",
+    "value": "大丈夫",
+    "translation": "qui va bien, sans problème",
+    "jlpt": 5
+  },
+  "347": {
+    "id": 347,
+    "pronunciation": "だいすき",
+    "value": "大好き",
+    "translation": "adorable, adoré",
+    "jlpt": 5
+  },
+  "348": {
+    "id": 348,
+    "pronunciation": "たいせつ",
+    "value": "大切",
+    "translation": "important",
+    "jlpt": 5
+  },
+  "349": {
+    "id": 349,
+    "pronunciation": "たいてい",
+    "value": "大抵",
+    "translation": "d'habitude, en général",
+    "jlpt": 5
+  },
+  "350": {
+    "id": 350,
+    "pronunciation": "だいどころ",
+    "value": "台所",
+    "translation": "cuisine",
+    "jlpt": 5
+  },
+  "351": {
+    "id": 351,
+    "pronunciation": "たいへん",
+    "value": "大変",
+    "translation": "sérieux, grave, important, immense, énorme",
+    "jlpt": 5
+  },
+  "352": {
+    "id": 352,
+    "pronunciation": "たかい",
+    "value": "高い",
+    "translation": "haut, cher",
+    "jlpt": 5
+  },
+  "353": {
+    "id": 353,
+    "pronunciation": "たくさん",
+    "value": "沢山",
+    "translation": "beaucoup",
+    "jlpt": 5
+  },
+  "354": {
+    "id": 354,
+    "pronunciation": "",
+    "value": "タクシー",
+    "translation": "taxi",
+    "jlpt": 5
+  },
+  "355": {
+    "id": 355,
+    "pronunciation": "だけ",
+    "value": "丈",
+    "translation": "juste, seulement",
+    "jlpt": 5
+  },
+  "356": {
+    "id": 356,
+    "pronunciation": "だす",
+    "value": "出す",
+    "translation": "sortir, partir",
+    "jlpt": 5
+  },
+  "357": {
+    "id": 357,
+    "pronunciation": "たち",
+    "value": "達",
+    "translation": "marque du pluriel, suffixe pour le pluriel",
+    "jlpt": 5
+  },
+  "358": {
+    "id": 358,
+    "pronunciation": "たつ",
+    "value": "立つ",
+    "translation": "se lever, être érigé, être levé, tenir debout",
+    "jlpt": 5
+  },
+  "359": {
+    "id": 359,
+    "pronunciation": "たつ",
+    "value": "発つ",
+    "translation": "partir (en train, en avion...)",
+    "jlpt": 5
+  },
+  "360": {
+    "id": 360,
+    "pronunciation": "たてもの",
+    "value": "建物",
+    "translation": "bâtiment",
+    "jlpt": 5
+  },
+  "361": {
+    "id": 361,
+    "pronunciation": "たのしい",
+    "value": "楽しい",
+    "translation": "plaisant, amusant",
+    "jlpt": 5
+  },
+  "362": {
+    "id": 362,
+    "pronunciation": "たのむ",
+    "value": "頼む",
+    "translation": "demander",
+    "jlpt": 5
+  },
+  "363": {
+    "id": 363,
+    "pronunciation": "たばこ",
+    "value": "煙草",
+    "translation": "cigarette, tabac",
+    "jlpt": 5
+  },
+  "364": {
+    "id": 364,
+    "pronunciation": "たぶん",
+    "value": "多分",
+    "translation": "peut-être",
+    "jlpt": 5
+  },
+  "365": {
+    "id": 365,
+    "pronunciation": "たべもの",
+    "value": "食べ物",
+    "translation": "nourriture",
+    "jlpt": 5
+  },
+  "366": {
+    "id": 366,
+    "pronunciation": "たべる",
+    "value": "食べる",
+    "translation": "manger",
+    "jlpt": 5
+  },
+  "367": {
+    "id": 367,
+    "pronunciation": "たまご",
+    "value": "卵",
+    "translation": "oeuf",
+    "jlpt": 5
+  },
+  "368": {
+    "id": 368,
+    "pronunciation": "だれ",
+    "value": "誰",
+    "translation": "qui ?, quelqu'un",
+    "jlpt": 5
+  },
+  "369": {
+    "id": 369,
+    "pronunciation": "だれか",
+    "value": "誰か",
+    "translation": "quelqu'un",
+    "jlpt": 5
+  },
+  "370": {
+    "id": 370,
+    "pronunciation": "たんじょうび",
+    "value": "誕生日",
+    "translation": "anniversaire",
+    "jlpt": 5
+  },
+  "371": {
+    "id": 371,
+    "pronunciation": "だんだん",
+    "value": "段々",
+    "translation": "progressivement, petit à petit",
+    "jlpt": 5
+  },
+  "372": {
+    "id": 372,
+    "pronunciation": "ちいさい",
+    "value": "小さい",
+    "translation": "petit",
+    "jlpt": 5
+  },
+  "373": {
+    "id": 373,
+    "pronunciation": "ちかい",
+    "value": "近い",
+    "translation": "proche (en distance), près",
+    "jlpt": 5
+  },
+  "374": {
+    "id": 374,
+    "pronunciation": "ちがう",
+    "value": "違う",
+    "translation": "être différent",
+    "jlpt": 5
+  },
+  "375": {
+    "id": 375,
+    "pronunciation": "ちかく",
+    "value": "近く",
+    "translation": "voisinage, environ",
+    "jlpt": 5
+  },
+  "376": {
+    "id": 376,
+    "pronunciation": "ちかてつ",
+    "value": "地下鉄",
+    "translation": "métro",
+    "jlpt": 5
+  },
+  "377": {
+    "id": 377,
+    "pronunciation": "ちず",
+    "value": "地図",
+    "translation": "carte, plan",
+    "jlpt": 5
+  },
+  "378": {
+    "id": 378,
+    "pronunciation": "ちち",
+    "value": "父",
+    "translation": "père",
+    "jlpt": 5
+  },
+  "379": {
+    "id": 379,
+    "pronunciation": "ちゃいろ",
+    "value": "茶色",
+    "translation": "marron clair",
+    "jlpt": 5
+  },
+  "380": {
+    "id": 380,
+    "pronunciation": "ちゃいろ",
+    "value": "茶色",
+    "translation": "marron",
+    "jlpt": 5
+  },
+  "381": {
+    "id": 381,
+    "pronunciation": "ちゃわん",
+    "value": "茶碗",
+    "translation": "bol à riz, tasse à thé",
+    "jlpt": 5
+  },
+  "382": {
+    "id": 382,
+    "pronunciation": "ちゅう",
+    "value": "中",
+    "translation": "pendant",
+    "jlpt": 5
+  },
+  "383": {
+    "id": 383,
+    "pronunciation": "ちょうど",
+    "value": "丁度",
+    "translation": "juste, exact",
+    "jlpt": 5
+  },
+  "384": {
+    "id": 384,
+    "pronunciation": "ちょっと",
+    "value": "一寸",
+    "translation": "juste une minute, un petit peu, un instant, un moment",
+    "jlpt": 5
+  },
+  "385": {
+    "id": 385,
+    "pronunciation": "ついたち",
+    "value": "一日",
+    "translation": "premier jour du mois, 1 jour",
+    "jlpt": 5
+  },
+  "386": {
+    "id": 386,
+    "pronunciation": "つかう",
+    "value": "使う",
+    "translation": "utiliser, employer, dépenser (de l'argent, du temps), parler (une langue)",
+    "jlpt": 5
+  },
+  "388": {
+    "id": 388,
+    "pronunciation": "つかれる",
+    "value": "疲れる",
+    "translation": "être fatigué",
+    "jlpt": 5
+  },
+  "389": {
+    "id": 389,
+    "pronunciation": "つぎ",
+    "value": "次",
+    "translation": "suivant",
+    "jlpt": 5
+  },
+  "390": {
+    "id": 390,
+    "pronunciation": "つきあかり",
+    "value": "月明かり",
+    "translation": "clair de lune",
+    "jlpt": 5
+  },
+  "391": {
+    "id": 391,
+    "pronunciation": "つく",
+    "value": "着く",
+    "translation": "arriver, atteindre",
+    "jlpt": 5
+  },
+  "392": {
+    "id": 392,
+    "pronunciation": "つくえ",
+    "value": "机",
+    "translation": "bureau (meuble)",
+    "jlpt": 5
+  },
+  "393": {
+    "id": 393,
+    "pronunciation": "つくる",
+    "value": "作る・創る・造る",
+    "translation": "faire, créer, réaliser, construire, fabriquer",
+    "jlpt": 5
+  },
+  "394": {
+    "id": 394,
+    "pronunciation": "つける",
+    "value": "点ける",
+    "translation": "allumer (la lumière, une cigarette...)",
+    "jlpt": 5
+  },
+  "395": {
+    "id": 395,
+    "pronunciation": "つとめる",
+    "value": "努める",
+    "translation": "faire des efforts, s'appliquer, travailler",
+    "jlpt": 5
+  },
+  "396": {
+    "id": 396,
+    "pronunciation": "つまらない",
+    "value": "詰まらない",
+    "translation": "ennuyeux, peu intéressant",
+    "jlpt": 5
+  },
+  "397": {
+    "id": 397,
+    "pronunciation": "つめたい",
+    "value": "冷たい",
+    "translation": "glacé (au toucher), froid",
+    "jlpt": 5
+  },
+  "398": {
+    "id": 398,
+    "pronunciation": "つよい",
+    "value": "強い",
+    "translation": "fort, puissant",
+    "jlpt": 5
+  },
+  "399": {
+    "id": 399,
+    "pronunciation": "て",
+    "value": "手",
+    "translation": "main",
+    "jlpt": 5
+  },
+  "400": {
+    "id": 400,
+    "pronunciation": "",
+    "value": "テープ",
+    "translation": "bande magnétique, cassette audio",
+    "jlpt": 5
+  },
+  "401": {
+    "id": 401,
+    "pronunciation": "",
+    "value": "テーブル",
+    "translation": "table",
+    "jlpt": 5
+  },
+  "402": {
+    "id": 402,
+    "pronunciation": "",
+    "value": "テープレコーダー",
+    "translation": "magnétophone",
+    "jlpt": 5
+  },
+  "403": {
+    "id": 403,
+    "pronunciation": "でかける",
+    "value": "出かける",
+    "translation": "sortir, partir",
+    "jlpt": 5
+  },
+  "404": {
+    "id": 404,
+    "pronunciation": "てがみ",
+    "value": "手紙",
+    "translation": "lettre",
+    "jlpt": 5
+  },
+  "405": {
+    "id": 405,
+    "pronunciation": "できる",
+    "value": "出来る",
+    "translation": "être capable de faire, être fait",
+    "jlpt": 5
+  },
+  "406": {
+    "id": 406,
+    "pronunciation": "でぐち",
+    "value": "出口",
+    "translation": "sortie",
+    "jlpt": 5
+  },
+  "407": {
+    "id": 407,
+    "pronunciation": "",
+    "value": "テスト",
+    "translation": "test, essai",
+    "jlpt": 5
+  },
+  "408": {
+    "id": 408,
+    "pronunciation": "",
+    "value": "では",
+    "translation": "donc, alors, et bien",
+    "jlpt": 5
+  },
+  "409": {
+    "id": 409,
+    "pronunciation": "",
+    "value": "デパート",
+    "translation": "centre commercial",
+    "jlpt": 5
+  },
+  "410": {
+    "id": 410,
+    "pronunciation": "",
+    "value": "でも",
+    "translation": "mais, cependant",
+    "jlpt": 5
+  },
+  "411": {
+    "id": 411,
+    "pronunciation": "でる",
+    "value": "出る",
+    "translation": "quitter, sortir",
+    "jlpt": 5
+  },
+  "412": {
+    "id": 412,
+    "pronunciation": "",
+    "value": "テレビ",
+    "translation": "télévision",
+    "jlpt": 5
+  },
+  "413": {
+    "id": 413,
+    "pronunciation": "てん",
+    "value": "店",
+    "translation": "boutique de, magasin de",
+    "jlpt": 5
+  },
+  "414": {
+    "id": 414,
+    "pronunciation": "てんき",
+    "value": "天気",
+    "translation": "météo, temps",
+    "jlpt": 5
+  },
+  "415": {
+    "id": 415,
+    "pronunciation": "でんき",
+    "value": "電気",
+    "translation": "électricité, lumière électrique",
+    "jlpt": 5
+  },
+  "416": {
+    "id": 416,
+    "pronunciation": "でんきをつける",
+    "value": "電気を点ける",
+    "translation": "allumer la lumière",
+    "jlpt": 5
+  },
+  "417": {
+    "id": 417,
+    "pronunciation": "でんしゃ",
+    "value": "電車",
+    "translation": "train",
+    "jlpt": 5
+  },
+  "418": {
+    "id": 418,
+    "pronunciation": "でんわ",
+    "value": "電話",
+    "translation": "téléphone",
+    "jlpt": 5
+  },
+  "419": {
+    "id": 419,
+    "pronunciation": "と",
+    "value": "戸",
+    "translation": "porte coulissante",
+    "jlpt": 5
+  },
+  "420": {
+    "id": 420,
+    "pronunciation": "",
+    "value": "と",
+    "translation": "si, quand, et, avec",
+    "jlpt": 5
+  },
+  "421": {
+    "id": 421,
+    "pronunciation": "ど",
+    "value": "度",
+    "translation": "degré (angle, température...)",
+    "jlpt": 5
+  },
+  "422": {
+    "id": 422,
+    "pronunciation": "ど",
+    "value": "度",
+    "translation": "compteur pour les occurrences, le nombre de fois",
+    "jlpt": 5
+  },
+  "423": {
+    "id": 423,
+    "pronunciation": "",
+    "value": "ドア",
+    "translation": "porte (style occidental)",
+    "jlpt": 5
+  },
+  "424": {
+    "id": 424,
+    "pronunciation": "",
+    "value": "トイレ",
+    "translation": "toilettes",
+    "jlpt": 5
+  },
+  "425": {
+    "id": 425,
+    "pronunciation": "どう",
+    "value": "如何",
+    "translation": "comment ?, de quelle manière ?",
+    "jlpt": 5
+  },
+  "426": {
+    "id": 426,
+    "pronunciation": "どういたしまして",
+    "value": "どう致しまして",
+    "translation": "il n'y a pas de quoi, de rien",
+    "jlpt": 5
+  },
+  "427": {
+    "id": 427,
+    "pronunciation": "どうして",
+    "value": "如何して",
+    "translation": "pourquoi ?",
+    "jlpt": 5
+  },
+  "428": {
+    "id": 428,
+    "pronunciation": "",
+    "value": "どうぞ",
+    "translation": "s'il vous plaît",
+    "jlpt": 5
+  },
+  "429": {
+    "id": 429,
+    "pronunciation": "どうぞよろしく",
+    "value": "どうぞ宜しく",
+    "translation": "enchanté, je compte sur vous",
+    "jlpt": 5
+  },
+  "430": {
+    "id": 430,
+    "pronunciation": "どうぶつ",
+    "value": "動物",
+    "translation": "animal",
+    "jlpt": 5
+  },
+  "431": {
+    "id": 431,
+    "pronunciation": "",
+    "value": "どうも",
+    "translation": "merci",
+    "jlpt": 5
+  },
+  "432": {
+    "id": 432,
+    "pronunciation": "どうもありがとうございます",
+    "value": "どうも有難う御座います",
+    "translation": "merci beaucoup",
+    "jlpt": 5
+  },
+  "433": {
+    "id": 433,
+    "pronunciation": "とおい",
+    "value": "遠い",
+    "translation": "long, distant",
+    "jlpt": 5
+  },
+  "434": {
+    "id": 434,
+    "pronunciation": "とおか",
+    "value": "十日",
+    "translation": "dixième jour du mois, 10 jours",
+    "jlpt": 5
+  },
+  "435": {
+    "id": 435,
+    "pronunciation": "とき",
+    "value": "時",
+    "translation": "heure, temps, moment",
+    "jlpt": 5
+  },
+  "436": {
+    "id": 436,
+    "pronunciation": "ときどき",
+    "value": "時々",
+    "translation": "de temps en temps, parfois",
+    "jlpt": 5
+  },
+  "437": {
+    "id": 437,
+    "pronunciation": "とけい",
+    "value": "時計",
+    "translation": "montre, horloge, réveil",
+    "jlpt": 5
+  },
+  "438": {
+    "id": 438,
+    "pronunciation": "どこ",
+    "value": "何所",
+    "translation": "où ?",
+    "jlpt": 5
+  },
+  "439": {
+    "id": 439,
+    "pronunciation": "ところ",
+    "value": "所",
+    "translation": "endroit, lieu",
+    "jlpt": 5
+  },
+  "440": {
+    "id": 440,
+    "pronunciation": "としょかん",
+    "value": "図書館",
+    "translation": "bibliothèque (bâtiment)",
+    "jlpt": 5
+  },
+  "441": {
+    "id": 441,
+    "pronunciation": "どちら",
+    "value": "何方",
+    "translation": "quel côté ?",
+    "jlpt": 5
+  },
+  "442": {
+    "id": 442,
+    "pronunciation": "とても",
+    "value": "迚も",
+    "translation": "beaucoup, extrêmement",
+    "jlpt": 5
+  },
+  "443": {
+    "id": 443,
+    "pronunciation": "どなた",
+    "value": "何方",
+    "translation": "qui ? (poli)",
+    "jlpt": 5
+  },
+  "444": {
+    "id": 444,
+    "pronunciation": "となり",
+    "value": "隣",
+    "translation": "proche, voisin",
+    "jlpt": 5
+  },
+  "445": {
+    "id": 445,
+    "pronunciation": "どの",
+    "value": "何の",
+    "translation": "quel ?",
+    "jlpt": 5
+  },
+  "446": {
+    "id": 446,
+    "pronunciation": "とぶ",
+    "value": "飛ぶ・跳ぶ",
+    "translation": "voler, s'envoler, bondir",
+    "jlpt": 5
+  },
+  "447": {
+    "id": 447,
+    "pronunciation": "とまる・とどまる",
+    "value": "止まる・留まる",
+    "translation": "rester (au même endroit), stopper, s'arrêter, ",
+    "jlpt": 5
+  },
+  "448": {
+    "id": 448,
+    "pronunciation": "demeurer, être limité à, s'établir",
+    "jlpt": 5
+  },
+  "449": {
+    "id": 449,
+    "pronunciation": "ともだち",
+    "value": "友達",
+    "translation": "ami, compagnon",
+    "jlpt": 5
+  },
+  "450": {
+    "id": 450,
+    "pronunciation": "どようび",
+    "value": "土曜日",
+    "translation": "samedi",
+    "jlpt": 5
+  },
+  "451": {
+    "id": 451,
+    "pronunciation": "とり",
+    "value": "鳥",
+    "translation": "oiseau",
+    "jlpt": 5
+  },
+  "452": {
+    "id": 452,
+    "pronunciation": "とりにく",
+    "value": "鶏肉",
+    "translation": "poulet",
+    "jlpt": 5
+  },
+  "453": {
+    "id": 453,
+    "pronunciation": "とる",
+    "value": "取る",
+    "translation": "prendre, emporter",
+    "jlpt": 5
+  },
+  "454": {
+    "id": 454,
+    "pronunciation": "とる",
+    "value": "撮る",
+    "translation": "prendre (une photographie)",
+    "jlpt": 5
+  },
+  "455": {
+    "id": 455,
+    "pronunciation": "どれ",
+    "value": "何れ",
+    "translation": "lequel ?",
+    "jlpt": 5
+  },
+  "456": {
+    "id": 456,
+    "pronunciation": "",
+    "value": "どんな",
+    "translation": "quel genre ?",
+    "jlpt": 5
+  },
+  "457": {
+    "id": 457,
+    "pronunciation": "ない",
+    "value": "無い",
+    "translation": "qui n'existe pas, qui n'est pas là, qui n'est pas possédé",
+    "jlpt": 5
+  },
+  "458": {
+    "id": 458,
+    "pronunciation": "",
+    "value": "ナイフ",
+    "translation": "couteau",
+    "jlpt": 5
+  },
+  "459": {
+    "id": 459,
+    "pronunciation": "なか",
+    "value": "中",
+    "translation": "à l'intérieur de, parmi",
+    "jlpt": 5
+  },
+  "460": {
+    "id": 460,
+    "pronunciation": "ながい",
+    "value": "長い",
+    "translation": "long",
+    "jlpt": 5
+  },
+  "461": {
+    "id": 461,
+    "pronunciation": "なく",
+    "value": "鳴く",
+    "translation": "chanter (oiseau), aboyer, miauler, grogner (pangolin)...",
+    "jlpt": 5
+  },
+  "462": {
+    "id": 462,
+    "pronunciation": "なつ",
+    "value": "夏",
+    "translation": "été",
+    "jlpt": 5
+  },
+  "463": {
+    "id": 463,
+    "pronunciation": "なつやすみ",
+    "value": "夏休み",
+    "translation": "vacances d'été",
+    "jlpt": 5
+  },
+  "464": {
+    "id": 464,
+    "pronunciation": "など",
+    "value": "等",
+    "translation": "etc, et cetera",
+    "jlpt": 5
+  },
+  "465": {
+    "id": 465,
+    "pronunciation": "なな",
+    "value": "七",
+    "translation": "sept",
+    "jlpt": 5
+  },
+  "466": {
+    "id": 466,
+    "pronunciation": "ななつ",
+    "value": "七つ",
+    "translation": "sept",
+    "jlpt": 5
+  },
+  "467": {
+    "id": 467,
+    "pronunciation": "なのか",
+    "value": "七日",
+    "translation": "septième jour du mois, 7 jours",
+    "jlpt": 5
+  },
+  "468": {
+    "id": 468,
+    "pronunciation": "なまえ",
+    "value": "名前",
+    "translation": "nom",
+    "jlpt": 5
+  },
+  "469": {
+    "id": 469,
+    "pronunciation": "ならう",
+    "value": "習う",
+    "translation": "étudier, apprendre (de quelqu'un)",
+    "jlpt": 5
+  },
+  "470": {
+    "id": 470,
+    "pronunciation": "ならぶ",
+    "value": "並ぶ",
+    "translation": "se mettre en rangs, faire la queue, rivaliser, égaler",
+    "jlpt": 5
+  },
+  "471": {
+    "id": 471,
+    "pronunciation": "ならべる",
+    "value": "並べる",
+    "translation": "aligner",
+    "jlpt": 5
+  },
+  "472": {
+    "id": 472,
+    "pronunciation": "なる",
+    "value": "成る",
+    "translation": "devenir, se changer en, être composé de, être constitué de",
+    "jlpt": 5
+  },
+  "473": {
+    "id": 473,
+    "pronunciation": "なん",
+    "value": "何",
+    "translation": "combien (+ compteur) ?",
+    "jlpt": 5
+  },
+  "474": {
+    "id": 474,
+    "pronunciation": "なん・なに",
+    "value": "何",
+    "translation": "que, quoi ?",
+    "jlpt": 5
+  },
+  "475": {
+    "id": 475,
+    "pronunciation": "に",
+    "value": "二",
+    "translation": "deux",
+    "jlpt": 5
+  },
+  "476": {
+    "id": 476,
+    "pronunciation": "にぎやか",
+    "value": "賑やか",
+    "translation": "animé (en parlant d'une ville, d'une rue...)",
+    "jlpt": 5
+  },
+  "477": {
+    "id": 477,
+    "pronunciation": "にく",
+    "value": "肉",
+    "translation": "viande",
+    "jlpt": 5
+  },
+  "478": {
+    "id": 478,
+    "pronunciation": "にし",
+    "value": "西",
+    "translation": "ouest",
+    "jlpt": 5
+  },
+  "479": {
+    "id": 479,
+    "pronunciation": "にち",
+    "value": "日",
+    "translation": "jour du mois, compteur pour les jours du mois",
+    "jlpt": 5
+  },
+  "480": {
+    "id": 480,
+    "pronunciation": "にちようび",
+    "value": "日曜日",
+    "translation": "*dimanche",
+    "jlpt": 5
+  },
+  "481": {
+    "id": 481,
+    "pronunciation": "にほんご",
+    "value": "日本語",
+    "translation": "langue japonaise",
+    "jlpt": 5
+  },
+  "482": {
+    "id": 482,
+    "pronunciation": "にもつ",
+    "value": "荷物",
+    "translation": "bagage, paquet",
+    "jlpt": 5
+  },
+  "483": {
+    "id": 483,
+    "pronunciation": "",
+    "value": "ニュース",
+    "translation": "informations",
+    "jlpt": 5
+  },
+  "484": {
+    "id": 484,
+    "pronunciation": "にわ",
+    "value": "庭",
+    "translation": "jardin",
+    "jlpt": 5
+  },
+  "485": {
+    "id": 485,
+    "pronunciation": "にん",
+    "value": "人",
+    "translation": "compteur pour les personnes",
+    "jlpt": 5
+  },
+  "486": {
+    "id": 486,
+    "pronunciation": "ぬぐ",
+    "value": "脱ぐ",
+    "translation": "enlever (des habits), se déshabiller",
+    "jlpt": 5
+  },
+  "487": {
+    "id": 487,
+    "pronunciation": "",
+    "value": "ネクタイ",
+    "translation": "cravate",
+    "jlpt": 5
+  },
+  "488": {
+    "id": 488,
+    "pronunciation": "ねる",
+    "value": "寝る",
+    "translation": "se coucher, aller dormir",
+    "jlpt": 5
+  },
+  "489": {
+    "id": 489,
+    "pronunciation": "ねん",
+    "value": "年",
+    "translation": "années, compteur pour les années",
+    "jlpt": 5
+  },
+  "490": {
+    "id": 490,
+    "pronunciation": "",
+    "value": "ノート",
+    "translation": "calepin, cahier, note",
+    "jlpt": 5
+  },
+  "491": {
+    "id": 491,
+    "pronunciation": "のぼる",
+    "value": "登る・上る・昇る",
+    "translation": "escalader, grimper, gravir, se lever (le soleil)",
+    "jlpt": 5
+  },
+  "492": {
+    "id": 492,
+    "pronunciation": "のみも",
+    "value": "の飲み物",
+    "translation": "boisson",
+    "jlpt": 5
+  },
+  "493": {
+    "id": 493,
+    "pronunciation": "のむ",
+    "value": "飲む",
+    "translation": "boire",
+    "jlpt": 5
+  },
+  "494": {
+    "id": 494,
+    "pronunciation": "のる",
+    "value": "乗る",
+    "translation": "monter (dans un véhicule), prendre (un train), embarquer (dans un avion, un bateau)",
+    "jlpt": 5
+  },
+  "496": {
+    "id": 496,
+    "pronunciation": "は",
+    "value": "歯",
+    "translation": "dent",
+    "jlpt": 5
+  },
+  "497": {
+    "id": 497,
+    "pronunciation": "",
+    "value": "パーティー",
+    "translation": "fête",
+    "jlpt": 5
+  },
+  "498": {
+    "id": 498,
+    "pronunciation": "",
+    "value": "はい",
+    "translation": "oui",
+    "jlpt": 5
+  },
+  "499": {
+    "id": 499,
+    "pronunciation": "はいざら",
+    "value": "灰皿",
+    "translation": "cendrier",
+    "jlpt": 5
+  },
+  "500": {
+    "id": 500,
+    "pronunciation": "はいる",
+    "value": "入る",
+    "translation": "entrer, pénétrer",
+    "jlpt": 5
+  },
+  "501": {
+    "id": 501,
+    "pronunciation": "はがき",
+    "value": "葉書",
+    "translation": "carte postale",
+    "jlpt": 5
+  },
+  "502": {
+    "id": 502,
+    "pronunciation": "はく",
+    "value": "穿く・履く",
+    "translation": "porter des vêtements en dessous de la taille",
+    "jlpt": 5
+  },
+  "503": {
+    "id": 503,
+    "pronunciation": "はこ",
+    "value": "箱",
+    "translation": "boite",
+    "jlpt": 5
+  },
+  "504": {
+    "id": 504,
+    "pronunciation": "はし",
+    "value": "箸",
+    "translation": "baguette",
+    "jlpt": 5
+  },
+  "505": {
+    "id": 505,
+    "pronunciation": "はし",
+    "value": "橋",
+    "translation": "pont",
+    "jlpt": 5
+  },
+  "506": {
+    "id": 506,
+    "pronunciation": "はじまる",
+    "value": "始まる",
+    "translation": "être commencé",
+    "jlpt": 5
+  },
+  "507": {
+    "id": 507,
+    "pronunciation": "はじめ",
+    "value": "初め",
+    "translation": "début",
+    "jlpt": 5
+  },
+  "508": {
+    "id": 508,
+    "pronunciation": "はじめ",
+    "value": "始め",
+    "translation": "début, départ, origine",
+    "jlpt": 5
+  },
+  "509": {
+    "id": 509,
+    "pronunciation": "はじめて",
+    "value": "初めて",
+    "translation": "pour la première fois",
+    "jlpt": 5
+  },
+  "510": {
+    "id": 510,
+    "pronunciation": "はじめまして",
+    "value": "始めまして",
+    "translation": "heureux de faire votre connaissance",
+    "jlpt": 5
+  },
+  "511": {
+    "id": 511,
+    "pronunciation": "はしる",
+    "value": "走る",
+    "translation": "courir",
+    "jlpt": 5
+  },
+  "512": {
+    "id": 512,
+    "pronunciation": "",
+    "value": "バス",
+    "translation": "bus",
+    "jlpt": 5
+  },
+  "513": {
+    "id": 513,
+    "pronunciation": "",
+    "value": "バター",
+    "translation": "beurre",
+    "jlpt": 5
+  },
+  "514": {
+    "id": 514,
+    "pronunciation": "はたち",
+    "value": "二十歳",
+    "translation": "vingt ans (être âgéde)",
+    "jlpt": 5
+  },
+  "515": {
+    "id": 515,
+    "pronunciation": "はたらく",
+    "value": "働く",
+    "translation": "travailler",
+    "jlpt": 5
+  },
+  "516": {
+    "id": 516,
+    "pronunciation": "はち",
+    "value": "八",
+    "translation": "huit",
+    "jlpt": 5
+  },
+  "517": {
+    "id": 517,
+    "pronunciation": "はつか",
+    "value": "二十日",
+    "translation": "vingtième jour du mois, 20 jours",
+    "jlpt": 5
+  },
+  "518": {
+    "id": 518,
+    "pronunciation": "はな",
+    "value": "花",
+    "translation": "fleur",
+    "jlpt": 5
+  },
+  "519": {
+    "id": 519,
+    "pronunciation": "はな",
+    "value": "鼻",
+    "translation": "nez",
+    "jlpt": 5
+  },
+  "520": {
+    "id": 520,
+    "pronunciation": "はなし",
+    "value": "話",
+    "translation": "discours, conversation",
+    "jlpt": 5
+  },
+  "521": {
+    "id": 521,
+    "pronunciation": "はなす",
+    "value": "話す",
+    "translation": "parler",
+    "jlpt": 5
+  },
+  "522": {
+    "id": 522,
+    "pronunciation": "はは",
+    "value": "母",
+    "translation": "mère",
+    "jlpt": 5
+  },
+  "523": {
+    "id": 523,
+    "pronunciation": "はやい",
+    "value": "早い",
+    "translation": "rapide (temps), diligent",
+    "jlpt": 5
+  },
+  "524": {
+    "id": 524,
+    "pronunciation": "はやい",
+    "value": "速い",
+    "translation": "rapide (vitesse), véloce",
+    "jlpt": 5
+  },
+  "525": {
+    "id": 525,
+    "pronunciation": "はる",
+    "value": "春",
+    "translation": "printemps",
+    "jlpt": 5
+  },
+  "526": {
+    "id": 526,
+    "pronunciation": "はる",
+    "value": "張る",
+    "translation": "coller, fixer",
+    "jlpt": 5
+  },
+  "527": {
+    "id": 527,
+    "pronunciation": "はれ",
+    "value": "晴れ",
+    "translation": "beau temps, temps clair",
+    "jlpt": 5
+  },
+  "528": {
+    "id": 528,
+    "pronunciation": "はれる",
+    "value": "晴れる",
+    "translation": "s'éclaircir, s'ensoleiller",
+    "jlpt": 5
+  },
+  "529": {
+    "id": 529,
+    "pronunciation": "はん",
+    "value": "半",
+    "translation": "et demie",
+    "jlpt": 5
+  },
+  "530": {
+    "id": 530,
+    "pronunciation": "ばん",
+    "value": "晩",
+    "translation": "soir, soirée",
+    "jlpt": 5
+  },
+  "531": {
+    "id": 531,
+    "pronunciation": "",
+    "value": "パン",
+    "translation": "pain",
+    "jlpt": 5
+  },
+  "532": {
+    "id": 532,
+    "pronunciation": "",
+    "value": "ハンカチ",
+    "translation": "mouchoir",
+    "jlpt": 5
+  },
+  "533": {
+    "id": 533,
+    "pronunciation": "ばんごう",
+    "value": "番号",
+    "translation": "numéro",
+    "jlpt": 5
+  },
+  "534": {
+    "id": 534,
+    "pronunciation": "ばんごはん",
+    "value": "晩ご飯",
+    "translation": "dîner, repas du soir",
+    "jlpt": 5
+  },
+  "535": {
+    "id": 535,
+    "pronunciation": "はんぶん",
+    "value": "半分",
+    "translation": "moitié",
+    "jlpt": 5
+  },
+  "536": {
+    "id": 536,
+    "pronunciation": "ひがし",
+    "value": "東",
+    "translation": "est",
+    "jlpt": 5
+  },
+  "537": {
+    "id": 537,
+    "pronunciation": "ひき",
+    "value": "匹",
+    "translation": "rouleau de tissu",
+    "jlpt": 5
+  },
+  "538": {
+    "id": 538,
+    "pronunciation": "ひき",
+    "value": "匹",
+    "translation": "compteur pour les petits animaux",
+    "jlpt": 5
+  },
+  "539": {
+    "id": 539,
+    "pronunciation": "ひく",
+    "value": "引く",
+    "translation": "jouer d'un instrument à corde, dessiner (ligne)",
+    "jlpt": 5
+  },
+  "540": {
+    "id": 540,
+    "pronunciation": "ひく",
+    "value": "引く",
+    "translation": "tirer, attirer (l'attention, l'intérêt...), tracer (une droite, un trait)",
+    "jlpt": 5
+  },
+  "541": {
+    "id": 541,
+    "pronunciation": "ひくい",
+    "value": "低い",
+    "translation": "bas, faible (température, rang, degré...)",
+    "jlpt": 5
+  },
+  "542": {
+    "id": 542,
+    "pronunciation": "ひこうき",
+    "value": "飛行機",
+    "translation": "avion",
+    "jlpt": 5
+  },
+  "543": {
+    "id": 543,
+    "pronunciation": "ひだり",
+    "value": "左",
+    "translation": "gauche",
+    "jlpt": 5
+  },
+  "544": {
+    "id": 544,
+    "pronunciation": "ひと",
+    "value": "人",
+    "translation": "être humain, une personne",
+    "jlpt": 5
+  },
+  "545": {
+    "id": 545,
+    "pronunciation": "ひとつ",
+    "value": "一つ",
+    "translation": "un",
+    "jlpt": 5
+  },
+  "546": {
+    "id": 546,
+    "pronunciation": "ひとつき",
+    "value": "一月",
+    "translation": "un mois",
+    "jlpt": 5
+  },
+  "547": {
+    "id": 547,
+    "pronunciation": "ひとり",
+    "value": "一人",
+    "translation": "une personne",
+    "jlpt": 5
+  },
+  "548": {
+    "id": 548,
+    "pronunciation": "ひま",
+    "value": "暇",
+    "translation": "qui a du temps libre",
+    "jlpt": 5
+  },
+  "549": {
+    "id": 549,
+    "pronunciation": "ひゃく",
+    "value": "百",
+    "translation": "cent",
+    "jlpt": 5
+  },
+  "550": {
+    "id": 550,
+    "pronunciation": "びょういん",
+    "value": "病院",
+    "translation": "hôpital",
+    "jlpt": 5
+  },
+  "551": {
+    "id": 551,
+    "pronunciation": "びょうき",
+    "value": "病気",
+    "translation": "malade",
+    "jlpt": 5
+  },
+  "552": {
+    "id": 552,
+    "pronunciation": "ひらがな",
+    "value": "平仮名",
+    "translation": "hiragana (un des syllabaires japonais)",
+    "jlpt": 5
+  },
+  "553": {
+    "id": 553,
+    "pronunciation": "ひる",
+    "value": "昼",
+    "translation": "midi",
+    "jlpt": 5
+  },
+  "554": {
+    "id": 554,
+    "pronunciation": "ひるごはん",
+    "value": "昼ご飯",
+    "translation": "repas de midi",
+    "jlpt": 5
+  },
+  "555": {
+    "id": 555,
+    "pronunciation": "ひろい",
+    "value": "広い",
+    "translation": "large, vaste",
+    "jlpt": 5
+  },
+  "556": {
+    "id": 556,
+    "pronunciation": "ほん",
+    "value": "本",
+    "translation": "livre",
+    "jlpt": 5
+  },
+  "557": {
+    "id": 557,
+    "pronunciation": "ほん",
+    "value": "本",
+    "translation": "compteur pour les objets ronds et longs",
+    "jlpt": 5
+  },
+  "558": {
+    "id": 558,
+    "pronunciation": "ほんだな",
+    "value": "本棚",
+    "translation": "bibliothèque (rangement)",
+    "jlpt": 5
+  },
+  "559": {
+    "id": 559,
+    "pronunciation": "ほんとう",
+    "value": "本当",
+    "translation": "vrai, véritable",
+    "jlpt": 5
+  },
+  "560": {
+    "id": 560,
+    "pronunciation": "ほんとうに",
+    "value": "本当に",
+    "translation": "vraiment, réellement",
+    "jlpt": 5
+  },
+  "561": {
+    "id": 561,
+    "pronunciation": "まい",
+    "value": "枚",
+    "translation": "compteur pour les objets plats comme des feuilles",
+    "jlpt": 5
+  },
+  "562": {
+    "id": 562,
+    "pronunciation": "まいあさ",
+    "value": "毎朝",
+    "translation": "tous les matins",
+    "jlpt": 5
+  },
+  "563": {
+    "id": 563,
+    "pronunciation": "まいしゅう",
+    "value": "毎週",
+    "translation": "toutes les semaines",
+    "jlpt": 5
+  },
+  "564": {
+    "id": 564,
+    "pronunciation": "まいつき",
+    "value": "毎月",
+    "translation": "tous les mois",
+    "jlpt": 5
+  },
+  "565": {
+    "id": 565,
+    "pronunciation": "まいとし・まいねん",
+    "value": "毎年・毎年",
+    "translation": "tous les ans",
+    "jlpt": 5
+  },
+  "566": {
+    "id": 566,
+    "pronunciation": "まいにち",
+    "value": "毎日",
+    "translation": "tous les jours",
+    "jlpt": 5
+  },
+  "567": {
+    "id": 567,
+    "pronunciation": "まいばん",
+    "value": "毎晩",
+    "translation": "tous les soirs",
+    "jlpt": 5
+  },
+  "568": {
+    "id": 568,
+    "pronunciation": "まえ",
+    "value": "前",
+    "translation": "devant, avant, avant,auparavant",
+    "jlpt": 5
+  },
+  "570": {
+    "id": 570,
+    "pronunciation": "まがる",
+    "value": "曲がる",
+    "translation": "tourner, se courber, se plier",
+    "jlpt": 5
+  },
+  "571": {
+    "id": 571,
+    "pronunciation": "まずい",
+    "value": "不味い",
+    "translation": "peu appétissant, sans goût",
+    "jlpt": 5
+  },
+  "572": {
+    "id": 572,
+    "pronunciation": "また",
+    "value": "復",
+    "translation": "encore",
+    "jlpt": 5
+  },
+  "573": {
+    "id": 573,
+    "pronunciation": "",
+    "value": "また",
+    "translation": "à plus tard",
+    "jlpt": 5
+  },
+  "574": {
+    "id": 574,
+    "pronunciation": "まだ・いまだ",
+    "value": "未だ",
+    "translation": "pas encore (+négatif), encore (+positif)",
+    "jlpt": 5
+  },
+  "575": {
+    "id": 575,
+    "pronunciation": "まち",
+    "value": "町・街",
+    "translation": "ville, quartier",
+    "jlpt": 5
+  },
+  "576": {
+    "id": 576,
+    "pronunciation": "まつ",
+    "value": "待つ",
+    "translation": "attendre",
+    "jlpt": 5
+  },
+  "577": {
+    "id": 577,
+    "pronunciation": "まっすぐ",
+    "value": "真っ直ぐ",
+    "translation": "droit devant, en face",
+    "jlpt": 5
+  },
+  "578": {
+    "id": 578,
+    "pronunciation": "",
+    "value": "マッチ",
+    "translation": "match, allumette",
+    "jlpt": 5
+  },
+  "579": {
+    "id": 579,
+    "pronunciation": "まど",
+    "value": "窓",
+    "translation": "fenêtre",
+    "jlpt": 5
+  },
+  "580": {
+    "id": 580,
+    "pronunciation": "まるい",
+    "value": "丸い",
+    "translation": "rond, circulaire",
+    "jlpt": 5
+  },
+  "581": {
+    "id": 581,
+    "pronunciation": "まるい",
+    "value": "円い",
+    "translation": "rond, circulaire",
+    "jlpt": 5
+  },
+  "582": {
+    "id": 582,
+    "pronunciation": "まん",
+    "value": "万",
+    "translation": "dix-mille",
+    "jlpt": 5
+  },
+  "583": {
+    "id": 583,
+    "pronunciation": "まんねんひつ",
+    "value": "万年筆",
+    "translation": "stylo-plume",
+    "jlpt": 5
+  },
+  "584": {
+    "id": 584,
+    "pronunciation": "みがく",
+    "value": "磨く",
+    "translation": "polir, nettoyer, faire briller",
+    "jlpt": 5
+  },
+  "585": {
+    "id": 585,
+    "pronunciation": "みぎ",
+    "value": "右",
+    "translation": "droite",
+    "jlpt": 5
+  },
+  "586": {
+    "id": 586,
+    "pronunciation": "みじかい",
+    "value": "短い",
+    "translation": "court",
+    "jlpt": 5
+  },
+  "587": {
+    "id": 587,
+    "pronunciation": "みず",
+    "value": "水",
+    "translation": "eau",
+    "jlpt": 5
+  },
+  "588": {
+    "id": 588,
+    "pronunciation": "みせ",
+    "value": "店",
+    "translation": "magasin",
+    "jlpt": 5
+  },
+  "589": {
+    "id": 589,
+    "pronunciation": "みせる",
+    "value": "見せる",
+    "translation": "montrer, afficher, laisser montrer",
+    "jlpt": 5
+  },
+  "590": {
+    "id": 590,
+    "pronunciation": "みち",
+    "value": "道",
+    "translation": "chemin",
+    "jlpt": 5
+  },
+  "591": {
+    "id": 591,
+    "pronunciation": "みっか",
+    "value": "三日",
+    "translation": "troisième jour du mois, 3 jours",
+    "jlpt": 5
+  },
+  "592": {
+    "id": 592,
+    "pronunciation": "みっつ",
+    "value": "三つ",
+    "translation": "trois",
+    "jlpt": 5
+  },
+  "593": {
+    "id": 593,
+    "pronunciation": "みなさん",
+    "value": "皆さん",
+    "translation": "tout le monde",
+    "jlpt": 5
+  },
+  "594": {
+    "id": 594,
+    "pronunciation": "みなみ",
+    "value": "南",
+    "translation": "sud",
+    "jlpt": 5
+  },
+  "595": {
+    "id": 595,
+    "pronunciation": "みみ",
+    "value": "耳",
+    "translation": "oreille",
+    "jlpt": 5
+  },
+  "596": {
+    "id": 596,
+    "pronunciation": "みる",
+    "value": "見る・観る・視る",
+    "translation": "voir",
+    "jlpt": 5
+  },
+  "597": {
+    "id": 597,
+    "pronunciation": "むいか",
+    "value": "六日",
+    "translation": "sixième jour du mois, 6 jours",
+    "jlpt": 5
+  },
+  "598": {
+    "id": 598,
+    "pronunciation": "むこう",
+    "value": "向こう",
+    "translation": "de l'autre côté",
+    "jlpt": 5
+  },
+  "599": {
+    "id": 599,
+    "pronunciation": "むずかしい",
+    "value": "難しい",
+    "translation": "difficile",
+    "jlpt": 5
+  },
+  "600": {
+    "id": 600,
+    "pronunciation": "むっつ",
+    "value": "六つ",
+    "translation": "six",
+    "jlpt": 5
+  },
+  "601": {
+    "id": 601,
+    "pronunciation": "め",
+    "value": "目",
+    "translation": "oeil",
+    "jlpt": 5
+  },
+  "602": {
+    "id": 602,
+    "pronunciation": "め",
+    "value": "目",
+    "translation": "compteur des numéros d'ordre (suffixe en -ième comme dans deuxième)",
+    "jlpt": 5
+  },
+  "603": {
+    "id": 603,
+    "pronunciation": "",
+    "value": "メートル",
+    "translation": "mètre",
+    "jlpt": 5
+  },
+  "604": {
+    "id": 604,
+    "pronunciation": "めがね",
+    "value": "眼鏡",
+    "translation": "lunette",
+    "jlpt": 5
+  },
+  "605": {
+    "id": 605,
+    "pronunciation": "",
+    "value": "もう",
+    "translation": "encore,plus, déjà",
+    "jlpt": 5
+  },
+  "606": {
+    "id": 606,
+    "pronunciation": "もくようび",
+    "value": "木曜日",
+    "translation": "jeudi",
+    "jlpt": 5
+  },
+  "607": {
+    "id": 607,
+    "pronunciation": "",
+    "value": "もしもし",
+    "translation": "hallo (au téléphone)",
+    "jlpt": 5
+  },
+  "608": {
+    "id": 608,
+    "pronunciation": "もちろん",
+    "value": "勿論",
+    "translation": "bien sûr, évidemment",
+    "jlpt": 5
+  },
+  "609": {
+    "id": 609,
+    "pronunciation": "もつ",
+    "value": "持つ",
+    "translation": "tenir, porter, posséder",
+    "jlpt": 5
+  },
+  "610": {
+    "id": 610,
+    "pronunciation": "",
+    "value": "もっと",
+    "translation": "plus",
+    "jlpt": 5
+  },
+  "611": {
+    "id": 611,
+    "pronunciation": "もの",
+    "value": "物",
+    "translation": "chose, objet",
+    "jlpt": 5
+  },
+  "612": {
+    "id": 612,
+    "pronunciation": "もん",
+    "value": "門",
+    "translation": "porte",
+    "jlpt": 5
+  },
+  "613": {
+    "id": 613,
+    "pronunciation": "もんだい",
+    "value": "問題",
+    "translation": "problème, sujet à traiter, question",
+    "jlpt": 5
+  },
+  "614": {
+    "id": 614,
+    "pronunciation": "やおや",
+    "value": "八百屋",
+    "translation": "maraîcher, marchand de fruits et légumes",
+    "jlpt": 5
+  },
+  "615": {
+    "id": 615,
+    "pronunciation": "やさい",
+    "value": "野菜",
+    "translation": "légume",
+    "jlpt": 5
+  },
+  "616": {
+    "id": 616,
+    "pronunciation": "やさしい",
+    "value": "優しい",
+    "translation": "facile, simple, gentil",
+    "jlpt": 5
+  },
+  "617": {
+    "id": 617,
+    "pronunciation": "やさしい",
+    "value": "易しい",
+    "translation": "facile, simple",
+    "jlpt": 5
+  },
+  "618": {
+    "id": 618,
+    "pronunciation": "やすい",
+    "value": "安い",
+    "translation": "peu cher, bon marché, calme, paisible",
+    "jlpt": 5
+  },
+  "619": {
+    "id": 619,
+    "pronunciation": "やすみ",
+    "value": "休み",
+    "translation": "vacances, congé, repos",
+    "jlpt": 5
+  },
+  "620": {
+    "id": 620,
+    "pronunciation": "やすむ",
+    "value": "休む",
+    "translation": "se reposer, être absent, prendre un congé",
+    "jlpt": 5
+  },
+  "621": {
+    "id": 621,
+    "pronunciation": "やっつ",
+    "value": "八つ",
+    "translation": "huit",
+    "jlpt": 5
+  },
+  "622": {
+    "id": 622,
+    "pronunciation": "やま",
+    "value": "山",
+    "translation": "montagne, mont",
+    "jlpt": 5
+  },
+  "623": {
+    "id": 623,
+    "pronunciation": "やる",
+    "value": "遣る",
+    "translation": "faire",
+    "jlpt": 5
+  },
+  "624": {
+    "id": 624,
+    "pronunciation": "ゆうがた",
+    "value": "夕方",
+    "translation": "soir, soirée",
+    "jlpt": 5
+  },
+  "625": {
+    "id": 625,
+    "pronunciation": "ゆうびんきょく",
+    "value": "郵便局",
+    "translation": "bureau de poste",
+    "jlpt": 5
+  },
+  "626": {
+    "id": 626,
+    "pronunciation": "ゆうめい",
+    "value": "有名",
+    "translation": "célèbre",
+    "jlpt": 5
+  },
+  "627": {
+    "id": 627,
+    "pronunciation": "ゆき",
+    "value": "雪",
+    "translation": "neige",
+    "jlpt": 5
+  },
+  "628": {
+    "id": 628,
+    "pronunciation": "",
+    "value": "ゆっくり",
+    "translation": "lentement, tranquillement",
+    "jlpt": 5
+  },
+  "629": {
+    "id": 629,
+    "pronunciation": "ようか",
+    "value": "八日",
+    "translation": "huitième jour du mois, 8 jours",
+    "jlpt": 5
+  },
+  "630": {
+    "id": 630,
+    "pronunciation": "ようふく",
+    "value": "洋服v",
+    "translation": "êtements occidentaux",
+    "jlpt": 5
+  },
+  "631": {
+    "id": 631,
+    "pronunciation": "よく",
+    "value": "好く",
+    "translation": "bien, adroitement",
+    "jlpt": 5
+  },
+  "632": {
+    "id": 632,
+    "pronunciation": "よく",
+    "value": "克く",
+    "translation": "souvent",
+    "jlpt": 5
+  },
+  "633": {
+    "id": 633,
+    "pronunciation": "よこ",
+    "value": "横",
+    "translation": "côté (d'un boîte, d'un batîment...)",
+    "jlpt": 5
+  },
+  "634": {
+    "id": 634,
+    "pronunciation": "よっか",
+    "value": "四日",
+    "translation": "quatrième jour du mois, 4 jours",
+    "jlpt": 5
+  },
+  "635": {
+    "id": 635,
+    "pronunciation": "よっつ",
+    "value": "四つ",
+    "translation": "quatre",
+    "jlpt": 5
+  },
+  "636": {
+    "id": 636,
+    "pronunciation": "よぶ",
+    "value": "呼ぶ",
+    "translation": "appeler",
+    "jlpt": 5
+  },
+  "637": {
+    "id": 637,
+    "pronunciation": "よむ",
+    "value": "読む",
+    "translation": "lire",
+    "jlpt": 5
+  },
+  "638": {
+    "id": 638,
+    "pronunciation": "",
+    "value": "よる・よ夜",
+    "translation": "nuit",
+    "jlpt": 5
+  },
+  "639": {
+    "id": 639,
+    "pronunciation": "らいげつ",
+    "value": "来月",
+    "translation": "mois prochain",
+    "jlpt": 5
+  },
+  "640": {
+    "id": 640,
+    "pronunciation": "らいしゅう",
+    "value": "来週",
+    "translation": "semaine prochaine",
+    "jlpt": 5
+  },
+  "641": {
+    "id": 641,
+    "pronunciation": "らいねん",
+    "value": "来年",
+    "translation": "année prochaine",
+    "jlpt": 5
+  },
+  "642": {
+    "id": 642,
+    "pronunciation": "",
+    "value": "ラジオ",
+    "translation": "radio",
+    "jlpt": 5
+  },
+  "643": {
+    "id": 643,
+    "pronunciation": "りっぱ",
+    "value": "立派",
+    "translation": "magnifique, splendide, impressionnant",
+    "jlpt": 5
+  },
+  "644": {
+    "id": 644,
+    "pronunciation": "りゅうがくせい",
+    "value": "留学生",
+    "translation": "étudiant venant de l'étranger",
+    "jlpt": 5
+  },
+  "645": {
+    "id": 645,
+    "pronunciation": "りょうしん",
+    "value": "両親",
+    "translation": "parents (père et mère)",
+    "jlpt": 5
+  },
+  "646": {
+    "id": 646,
+    "pronunciation": "りょうり",
+    "value": "料理",
+    "translation": "plat, cuisine",
+    "jlpt": 5
+  },
+  "647": {
+    "id": 647,
+    "pronunciation": "りょこう",
+    "value": "旅行",
+    "translation": "voyage",
+    "jlpt": 5
+  },
+  "648": {
+    "id": 648,
+    "pronunciation": "りょこうする",
+    "value": "旅行する",
+    "translation": "voyager",
+    "jlpt": 5
+  },
+  "649": {
+    "id": 649,
+    "pronunciation": "れい",
+    "value": "零",
+    "translation": "zéro",
+    "jlpt": 5
+  },
+  "650": {
+    "id": 650,
+    "pronunciation": "れいぞうこ",
+    "value": "冷蔵庫",
+    "translation": "réfrigérateur",
+    "jlpt": 5
+  },
+  "651": {
+    "id": 651,
+    "pronunciation": "",
+    "value": "レコード",
+    "translation": "disque (de musique), record",
+    "jlpt": 5
+  },
+  "652": {
+    "id": 652,
+    "pronunciation": "",
+    "value": "レストラン",
+    "translation": "restaurant",
+    "jlpt": 5
+  },
+  "653": {
+    "id": 653,
+    "pronunciation": "れんしゅう",
+    "value": "練習",
+    "translation": "exercice",
+    "jlpt": 5
+  },
+  "654": {
+    "id": 654,
+    "pronunciation": "れんしゅうする",
+    "value": "練習する",
+    "translation": "faire des exercices, s'entraîner",
+    "jlpt": 5
+  }
+}

@@ -1,0 +1,759 @@
+{
+  "1": {
+    "id": 1,
+    "jlpt": 5,
+    "value": "日",
+    "onyomi": ["ニチ – nichi", "ジツ – jitsu"],
+    "kunyomi": ["ひ – hi", "び – bi"],
+    "translation": "jour, soleil, Japon"
+  },
+  "2": {
+    "id": 2,
+    "jlpt": 5,
+    "value": "一",
+    "onyomi": ["イチ – ichi", "イツ – itsu", "ヒト – hito"],
+    "kunyomi": ["ひと – hito"],
+    "translation": "un"
+  },
+  "3": {
+    "id": 3,
+    "jlpt": 5,
+    "value": "国",
+    "onyomi": ["コク – koku"],
+    "kunyomi": ["くに – kuni"],
+    "translation": "pays"
+  },
+  "4": {
+    "id": 4,
+    "jlpt": 5,
+    "value": "人",
+    "onyomi": ["ジン – jitsu", "ニン – nin"],
+    "kunyomi": ["ひと (り) – hito(ri)"],
+    "translation": "personne"
+  },
+  "5": {
+    "id": 5,
+    "jlpt": 5,
+    "value": "年",
+    "onyomi": ["ネン – nen"],
+    "kunyomi": ["とし – toshi"],
+    "translation": "année"
+  },
+  "6": {
+    "id": 6,
+    "jlpt": 5,
+    "value": "大",
+    "onyomi": ["ダイ – dai", "タイ – tai", "オオ(イ) – oo(i)"],
+    "kunyomi": ["おお – oo", "おお(きい) – oo(kii)"],
+    "translation": "grand, large"
+  },
+  "7": {
+    "id": 7,
+    "jlpt": 5,
+    "value": "十",
+    "onyomi": ["ジュウ – juu", "ジッ – jitsu", "ジュッ – juutsu"],
+    "kunyomi": ["とお – too"],
+    "translation": "dix"
+  },
+  "8": {
+    "id": 8,
+    "jlpt": 5,
+    "value": "二",
+    "onyomi": ["ニ – ni", "ジ – ji"],
+    "kunyomi": ["ふた – futa", "ふた(つ) – futa(tsu)"],
+    "translation": "deux"
+  },
+  "9": {
+    "id": 9,
+    "jlpt": 5,
+    "value": "本",
+    "onyomi": ["ホン – hon"],
+    "kunyomi": ["もと – moto"],
+    "translation": "livre, présent, principal, vrai, réel, (compteur pour les objets longs)"
+  },
+  "10": {
+    "id": 10,
+    "jlpt": 5,
+    "value": "中",
+    "onyomi": ["チュウ – chuu"],
+    "kunyomi": ["なか – naka", "うち – uchi", "あた(る) – ata(ru)"],
+    "translation": "dedans, intérieur, centre"
+  },
+  "11": {
+    "id": 11,
+    "jlpt": 5,
+    "value": "長",
+    "onyomi": ["チョウ – chou"],
+    "kunyomi": ["なが(い) – naga(i)"],
+    "translation": "long, chef"
+  },
+  "12": {
+    "id": 12,
+    "jlpt": 5,
+    "value": "出",
+    "onyomi": ["シュツ – shutsu", "スイ – sui"],
+    "kunyomi": [
+      "で(る) – de(ru)",
+      "―で – de",
+      "だ(す) – da(su)",
+      "―だ(す) – da(su)",
+      "い(でる) – i(deru)",
+      "い(だす) – i(dasu)"
+    ],
+    "translation": "sortir, partir"
+  },
+  "13": {
+    "id": 13,
+    "jlpt": 5,
+    "value": "三",
+    "onyomi": ["サン – san", "ゾウ"],
+    "kunyomi": ["み – mi", "み(つ) – mi(tsu)", "みっ(つ) – mit(tsu)"],
+    "translation": "trois"
+  },
+  "14": {
+    "id": 14,
+    "jlpt": 5,
+    "value": "時",
+    "onyomi": ["ジ – ji"],
+    "kunyomi": ["とき – toki"],
+    "translation": "temps, heure"
+  },
+  "15": {
+    "id": 15,
+    "jlpt": 5,
+    "value": "行",
+    "onyomi": ["コウ – kou", "ギョウ – gyou", "アン- an"],
+    "kunyomi": [
+      "い(く) – i(ku)",
+      "ゆ(く) – yu(ku)",
+      "―ゆ(き) – yu(ki)",
+      "―ゆき – yuki",
+      "―い(き) – i(ki)",
+      "―いき – iki",
+      "おこな(う) – okona(u)",
+      "おこ(なう) – oko(nau)"
+    ],
+    "translation": "aller, voyage"
+  },
+  "16": {
+    "id": 16,
+    "jlpt": 5,
+    "value": "見",
+    "onyomi": ["ケン – ken"],
+    "kunyomi": [
+      "み(る) – mi(ru)",
+      "み(える) – mi (eru)",
+      "み(せる) – mi(seru)"
+    ],
+    "translation": "voir, espoir, chance, opinion, regarder, visible"
+  },
+  "17": {
+    "id": 17,
+    "jlpt": 5,
+    "value": "月",
+    "onyomi": ["ゲツ – getsu", "ガツ – gan"],
+    "kunyomi": ["つき – tsuki"],
+    "translation": "mois, lune"
+  },
+  "18": {
+    "id": 18,
+    "jlpt": 5,
+    "value": "後",
+    "onyomi": ["ゴ – go", "コウ – kou"],
+    "kunyomi": [
+      "のち – nochi",
+      "うし(ろ) – uji(ru)",
+      "うしろ – ushiro",
+      "あと – ato",
+      "おく(れる) – oku(reru)"
+    ],
+    "translation": "derrière, arrière, après"
+  },
+  "19": {
+    "id": 19,
+    "jlpt": 5,
+    "value": "前",
+    "onyomi": ["ゼン – zen"],
+    "kunyomi": ["まえ – mae"],
+    "translation": "en face, avant"
+  },
+  "20": {
+    "id": 20,
+    "jlpt": 5,
+    "value": "生",
+    "onyomi": ["セイ – sei", "ショウ – shou"],
+    "kunyomi": [
+      "い(きる) – i(kiru)",
+      "い(かす) -i(kasu)",
+      "い(ける) – i(keru)",
+      "う(まれる) – u(mreru)",
+      "う(まれ) – u(mare)",
+      "うまれ – umare",
+      "う(む) – u(mu)",
+      "お(う) -o(u)",
+      "は(える) – ha(eru)",
+      "は(やす) – ha(yasu)",
+      "き – ki",
+      "なま – nama",
+      "なま― nama",
+      "な(る) – na(ru)",
+      "な(す) – na(su)",
+      "む(す) – mu(su)",
+      "―"
+    ],
+    "translation": "vie, vivre, naissance,naître"
+  },
+  "21": {
+    "id": 21,
+    "jlpt": 5,
+    "value": "五",
+    "onyomi": ["ゴ – go"],
+    "kunyomi": ["いつ(つ) – itsu(tsu)"],
+    "translation": "cinq"
+  },
+  "22": {
+    "id": 22,
+    "jlpt": 5,
+    "value": "間",
+    "onyomi": ["カン – kan", "ケン – gen"],
+    "kunyomi": ["あいだ – aida", "ま – ma", "あい – ai"],
+    "translation": "intervalle, espace, entre"
+  },
+  "23": {
+    "id": 23,
+    "jlpt": 5,
+    "value": "上",
+    "onyomi": ["ジョウ – jou", "ショウ – shou", "シャン – shan"],
+    "kunyomi": [
+      "うえ – ue",
+      "うわ― – uwa-",
+      "かみ – kami",
+      "あ(げる)",
+      "―あ(げる)",
+      "あ(がる)",
+      "―あ(がる)",
+      "あ(がり)",
+      "―あ(がり)",
+      "のぼ(る) – nobo(ru)",
+      "のぼ(り) – nobo(ri)",
+      "のぼ(せる) – nobo(seru)",
+      "のぼ(す) – nobo(su)",
+      "よ(す) – yo(su)"
+    ],
+    "translation": "dessus, en haut, donner, monter"
+  },
+  "24": {
+    "id": 24,
+    "jlpt": 5,
+    "value": "東",
+    "onyomi": ["トウ – tou"],
+    "kunyomi": ["ひがし – higashi"],
+    "translation": "Est"
+  },
+  "25": {
+    "id": 25,
+    "jlpt": 5,
+    "value": "四",
+    "onyomi": ["シ – shi"],
+    "kunyomi": [
+      "よ – yo",
+      "よ(つ) – yo(tsu)",
+      "よっ(つ) – yot(tsu)",
+      "よん – yon"
+    ],
+    "translation": "Quatre"
+  },
+  "26": {
+    "id": 26,
+    "jlpt": 5,
+    "value": "今",
+    "onyomi": ["コン – kon", "キン – kin"],
+    "kunyomi": ["いま – ima"],
+    "translation": "maintenant"
+  },
+  "27": {
+    "id": 27,
+    "jlpt": 5,
+    "value": "金",
+    "onyomi": ["キン – kin", "コン – kon", "ゴン – gon"],
+    "kunyomi": ["かね – kane", "かな― / kane-", "―がね / -kane"],
+    "translation": "or"
+  },
+  "28": {
+    "id": 28,
+    "jlpt": 5,
+    "value": "九",
+    "onyomi": ["キュウ – kyuu", "ク – ku"],
+    "kunyomi": ["ここの _ kokono", "ここの(つ) – kokono(tsu)"],
+    "translation": "neuf"
+  },
+  "29": {
+    "id": 29,
+    "jlpt": 5,
+    "value": "入",
+    "onyomi": ["ニュウ – nyuu", "ニッ – nitsu"],
+    "kunyomi": [
+      "い(る) – i(ru)",
+      "―い(る) / -i(ru)",
+      "―い(り) /-i(ru)",
+      "い(れる) – i(reru)",
+      "―い(れ) /-i(re)",
+      "はい(る) – hai(ru)"
+    ],
+    "translation": "entrer, insérer"
+  },
+  "30": {
+    "id": 30,
+    "jlpt": 5,
+    "value": "学",
+    "onyomi": ["ガク – gaku"],
+    "kunyomi": ["まな(ぶ) – mana(bu)"],
+    "translation": "étudier, apprendre, science"
+  },
+  "31": {
+    "id": 31,
+    "jlpt": 5,
+    "value": "高",
+    "onyomi": ["コウ – kou"],
+    "kunyomi": [
+      "たか(い) – taga(i)",
+      "たか – taga",
+      "―だか / -daga",
+      "たか(まる) – taka(maru)",
+      "たか(める) – taka(meru)"
+    ],
+    "translation": "grand, taille, cher"
+  },
+  "32": {
+    "id": 32,
+    "jlpt": 5,
+    "value": "円",
+    "onyomi": ["エン – en"],
+    "kunyomi": [
+      "まる(い) – maru(i)",
+      "まる – maru",
+      "まど – mado",
+      "まど(か) – mado(ka)",
+      "まろ(やか) – maro(yaka)"
+    ],
+    "translation": "cercle, rond, yen"
+  },
+  "33": {
+    "id": 33,
+    "jlpt": 5,
+    "value": "子",
+    "onyomi": ["シ – shi", "ス – su", "ツ – tsu"],
+    "kunyomi": ["こ – ko", "―こ / -ko", "―っ(こ) / -k(ko)", "ね – ne"],
+    "translation": "enfant, signe du rat en astrologie chinoise"
+  },
+  "34": {
+    "id": 34,
+    "jlpt": 5,
+    "value": "外",
+    "onyomi": ["ガイ – gai", "ゲ – ge"],
+    "kunyomi": [
+      "そと – soto",
+      "ほか – hoka",
+      "はず(す) – hazu(su)",
+      "はず(れる) – hazu(reru)",
+      "と― / to-"
+    ],
+    "translation": "extérieur autre"
+  },
+  "35": {
+    "id": 35,
+    "jlpt": 5,
+    "value": "八",
+    "onyomi": ["ハチ – hachi"],
+    "kunyomi": [
+      "や – ya",
+      "や(つ) – ya(tsu)",
+      "やっ(つ) – yat(tsu)",
+      "よう – you"
+    ],
+    "translation": "huit"
+  },
+  "36": {
+    "id": 36,
+    "jlpt": 5,
+    "value": "六",
+    "onyomi": ["ロク – roku", "リク – riku"],
+    "kunyomi": [
+      "む – mu",
+      "む(つ) – mu(tsu)",
+      "むっ(つ) – mut(tsu)",
+      "むい – mui"
+    ],
+    "translation": "six"
+  },
+  "37": {
+    "id": 37,
+    "jlpt": 5,
+    "value": "下",
+    "onyomi": ["カ – ka", "ゲ – ge"],
+    "kunyomi": [
+      "した – shita",
+      "しも – shimo",
+      "もと – moto",
+      "さ(げる) – sa(geru)",
+      "さ(がる) – sa(garu)",
+      "くだ(る) – kuda(ru)",
+      "くだ(り) – kuda(ri)",
+      "くだ(す) – kuda(su)",
+      "―くだ(す) / -kuda(su)",
+      "くだ(さる) – kuda(saru)",
+      "お(ろす) – o(rosu)",
+      "お(りる) – o(riru)"
+    ],
+    "translation": "En dessous, en bas, descendre, donner, bas, inférieur (hiérarchique)"
+  },
+  "38": {
+    "id": 38,
+    "jlpt": 5,
+    "value": "来",
+    "onyomi": ["ライ – rai", "タイ – tai"],
+    "kunyomi": [
+      "く(る) – ku(ru)",
+      "きた(る) – kita(ru)",
+      "きた(す) – kita(su)",
+      "き(たす) – ki(tasu)",
+      "き(たる) – ki(taru)",
+      "き – ki",
+      "こ – ko"
+    ],
+    "translation": "venir, cause, suivant, devenir"
+  },
+  "39": {
+    "id": 39,
+    "jlpt": 5,
+    "value": "気",
+    "onyomi": ["キ – ki", "ケ – ke"],
+    "kunyomi": ["いき – iki"],
+    "translation": "esprit, état d’esprit"
+  },
+  "40": {
+    "id": 40,
+    "jlpt": 5,
+    "value": "小",
+    "onyomi": ["ショウ – shou"],
+    "kunyomi": [
+      "ちい(さい) – chii(sai)",
+      "こ― / Ko-",
+      "お― / o-",
+      "さ― / sa –"
+    ],
+    "translation": "petit"
+  },
+  "41": {
+    "id": 41,
+    "jlpt": 5,
+    "value": "七",
+    "onyomi": ["シチ – shichi"],
+    "kunyomi": ["なな – nana", "なな(つ) – nana(tsu)", "なの – nano"],
+    "translation": "sept"
+  },
+  "42": {
+    "id": 42,
+    "jlpt": 5,
+    "value": "山",
+    "onyomi": ["サン – san", "セン – sen"],
+    "kunyomi": ["やま – yama"],
+    "translation": "montagne"
+  },
+  "43": {
+    "id": 43,
+    "jlpt": 5,
+    "value": "話",
+    "onyomi": ["ワ"],
+    "kunyomi": ["はな(す)", "はなし"],
+    "translation": "parler, histoire"
+  },
+  "44": {
+    "id": 44,
+    "jlpt": 5,
+    "value": "女",
+    "onyomi": ["ジョ", "ニョ", "ニョウ"],
+    "kunyomi": ["おんな", "め"],
+    "translation": "femme, sexe féminin"
+  },
+  "45": {
+    "id": 45,
+    "jlpt": 5,
+    "value": "北",
+    "onyomi": ["ホク"],
+    "kunyomi": ["きた"],
+    "translation": "Nord"
+  },
+  "46": {
+    "id": 46,
+    "jlpt": 5,
+    "value": "午",
+    "onyomi": ["ゴ"],
+    "kunyomi": ["うま"],
+    "translation": "après midi, signe du cheval dans l’astrologie chinoise"
+  },
+  "47": {
+    "id": 47,
+    "jlpt": 5,
+    "value": "百",
+    "onyomi": ["ヒャク", "ビャク"],
+    "kunyomi": ["もも"],
+    "translation": "cent"
+  },
+  "48": {
+    "id": 48,
+    "jlpt": 5,
+    "value": "書",
+    "onyomi": ["ショ"],
+    "kunyomi": ["か(く)", "―が(き)", "―がき"],
+    "translation": "écrire"
+  },
+  "49": {
+    "id": 49,
+    "jlpt": 5,
+    "value": "先",
+    "onyomi": ["セン"],
+    "kunyomi": ["さき", "ま(ず)"],
+    "translation": "avant, précédent, future"
+  },
+  "50": {
+    "id": 50,
+    "jlpt": 5,
+    "value": "名",
+    "onyomi": ["メイ", "ミョウ"],
+    "kunyomi": ["な", "―な"],
+    "translation": "nom, noté, distingué, réputation"
+  },
+  "51": {
+    "id": 51,
+    "jlpt": 5,
+    "value": "川",
+    "onyomi": ["セン"],
+    "kunyomi": ["かわ"],
+    "translation": "rivière, fleuve"
+  },
+  "52": {
+    "id": 52,
+    "jlpt": 5,
+    "value": "千",
+    "onyomi": ["セン"],
+    "kunyomi": ["ち"],
+    "translation": "mille"
+  },
+  "53": {
+    "id": 53,
+    "jlpt": 5,
+    "value": "水",
+    "onyomi": ["スイ"],
+    "kunyomi": ["みず", "みず―"],
+    "translation": "eau"
+  },
+  "54": {
+    "id": 54,
+    "jlpt": 5,
+    "value": "半",
+    "onyomi": ["ハン"],
+    "kunyomi": ["なか(ば)"],
+    "translation": "Moitié, milieu, numéro étrange, demi-"
+  },
+  "55": {
+    "id": 55,
+    "jlpt": 5,
+    "value": "男",
+    "onyomi": ["ダン", "ナン"],
+    "kunyomi": ["おとこ", "お"],
+    "translation": "homme, sexe masculin"
+  },
+  "56": {
+    "id": 56,
+    "jlpt": 5,
+    "value": "西",
+    "onyomi": ["セイ", "サイ", "ス"],
+    "kunyomi": ["にし"],
+    "translation": "ouest, espagne"
+  },
+  "57": {
+    "id": 57,
+    "jlpt": 5,
+    "value": "電",
+    "onyomi": ["デン"],
+    "kunyomi": [],
+    "translation": "électricité"
+  },
+  "58": {
+    "id": 58,
+    "jlpt": 5,
+    "value": "校",
+    "onyomi": ["コウ", "キョウ"],
+    "kunyomi": ["めん"],
+    "translation": "examen, école, preuve, correction, imprimé"
+  },
+  "59": {
+    "id": 59,
+    "jlpt": 5,
+    "value": "語",
+    "onyomi": ["ゴ"],
+    "kunyomi": ["かた(る)", "かた(らう)"],
+    "translation": "mot, langage, dire, indiquer"
+  },
+  "60": {
+    "id": 60,
+    "jlpt": 5,
+    "value": "土",
+    "onyomi": ["ド", "ト"],
+    "kunyomi": ["つち"],
+    "translation": "soie, terre, sol, Turquie"
+  },
+  "61": {
+    "id": 61,
+    "jlpt": 5,
+    "value": "木",
+    "onyomi": ["ボク", "モク"],
+    "kunyomi": ["き", "こ―"],
+    "translation": "arbre, bois"
+  },
+  "62": {
+    "id": 62,
+    "jlpt": 5,
+    "value": "聞",
+    "onyomi": ["ブン", "モン"],
+    "kunyomi": ["き(く)", "き(こえる)"],
+    "translation": "entendre, demander, écouter"
+  },
+  "63": {
+    "id": 63,
+    "jlpt": 5,
+    "value": "食",
+    "onyomi": ["ショク", "ジキ"],
+    "kunyomi": ["く(う)", "く(らう)", "た(べる)", "は(む)"],
+    "translation": "manger, nourriture"
+  },
+  "64": {
+    "id": 64,
+    "jlpt": 5,
+    "value": "車",
+    "onyomi": ["シャ"],
+    "kunyomi": ["くるま"],
+    "translation": "voiture"
+  },
+  "65": {
+    "id": 65,
+    "jlpt": 5,
+    "value": "何",
+    "onyomi": ["カ"],
+    "kunyomi": ["なに", "なん", "なに―", "なん―"],
+    "translation": "que, quoi"
+  },
+  "66": {
+    "id": 66,
+    "jlpt": 5,
+    "value": "南",
+    "onyomi": ["ナン", "ナ"],
+    "kunyomi": ["みなみ"],
+    "translation": "sud"
+  },
+  "67": {
+    "id": 67,
+    "jlpt": 5,
+    "value": "万",
+    "onyomi": ["マン", "バン"],
+    "kunyomi": ["よろず"],
+    "translation": "Dix milles"
+  },
+  "68": {
+    "id": 68,
+    "jlpt": 5,
+    "value": "毎",
+    "onyomi": ["マイ"],
+    "kunyomi": ["ごと", "―ごと(に)"],
+    "translation": "chaque"
+  },
+  "69": {
+    "id": 69,
+    "jlpt": 5,
+    "value": "白",
+    "onyomi": ["ハク", "ビャク"],
+    "kunyomi": ["しろ", "しら―", "しろ(い)"],
+    "translation": "blanc"
+  },
+  "70": {
+    "id": 70,
+    "jlpt": 5,
+    "value": "天",
+    "onyomi": ["テン"],
+    "kunyomi": ["あまつ", "あめ", "あま―"],
+    "translation": "paradis, ciel, impérial"
+  },
+  "71": {
+    "id": 71,
+    "jlpt": 5,
+    "value": "母",
+    "onyomi": ["ボ"],
+    "kunyomi": ["はは", "も"],
+    "translation": "maman, mêre"
+  },
+  "72": {
+    "id": 72,
+    "jlpt": 5,
+    "value": "火",
+    "onyomi": ["カ"],
+    "kunyomi": ["ひ", "―び", "ほ―"],
+    "translation": "feu"
+  },
+  "73": {
+    "id": 73,
+    "jlpt": 5,
+    "value": "右",
+    "onyomi": ["ウ", "ユウ"],
+    "kunyomi": ["みぎ"],
+    "translation": "droite"
+  },
+  "74": {
+    "id": 74,
+    "jlpt": 5,
+    "value": "読",
+    "onyomi": ["ドク", "トク", "トウ"],
+    "kunyomi": ["よ(む)", "―よ(み)"],
+    "translation": "lire"
+  },
+  "75": {
+    "id": 75,
+    "jlpt": 5,
+    "value": "友",
+    "onyomi": ["ユウ"],
+    "kunyomi": ["とも"],
+    "translation": "ami"
+  },
+  "76": {
+    "id": 76,
+    "jlpt": 5,
+    "value": "左",
+    "onyomi": ["サ", "シャ"],
+    "kunyomi": ["ひだり"],
+    "translation": "gauche"
+  },
+  "77": {
+    "id": 77,
+    "jlpt": 5,
+    "value": "休",
+    "onyomi": ["キュウ"],
+    "kunyomi": ["やす(む)", "やす(まる)", "やす(める)"],
+    "translation": "Se reposer, repos, retraite, dormir"
+  },
+  "78": {
+    "id": 78,
+    "jlpt": 5,
+    "value": "父",
+    "onyomi": ["フ"],
+    "kunyomi": ["ちち"],
+    "translation": "père"
+  },
+  "79": {
+    "id": 79,
+    "jlpt": 5,
+    "value": "雨",
+    "onyomi": ["ウ"],
+    "kunyomi": ["あめ", "あま―", "―さめ"],
+    "translation": "pluie"
+  }
+}

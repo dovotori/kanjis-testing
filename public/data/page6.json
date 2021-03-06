@@ -1,0 +1,205 @@
+{
+  "0": {
+    "id": 0,
+    "pronunciation": "かびん",
+    "value": "花瓶",
+    "translation": "vase",
+    "jlpt": 5
+  },
+  "1": {
+    "id": 1,
+    "pronunciation": "はな",
+    "value": "花",
+    "translation": "fleur",
+    "jlpt": 5
+  },
+  "2": {
+    "id": 2,
+    "pronunciation": "はなみ",
+    "value": "花見",
+    "translation": "floraison des cerisiers",
+    "jlpt": 5
+  },
+  "3": {
+    "id": 3,
+    "pronunciation": "はなび",
+    "value": "花火",
+    "translation": "feux d'artifices",
+    "jlpt": 5
+  },
+  "4": {
+    "id": 4,
+    "pronunciation": "てんき",
+    "value": "天気",
+    "translation": "temps (meteo)",
+    "jlpt": 5
+  },
+  "5": {
+    "id": 5,
+    "pronunciation": "びょうき",
+    "value": "病気",
+    "translation": "maladie",
+    "jlpt": 5
+  },
+  "6": {
+    "id": 6,
+    "pronunciation": "げんき",
+    "value": "元気",
+    "translation": "en bonne santé",
+    "jlpt": 5
+  },
+  "7": {
+    "id": 7,
+    "pronunciation": "おてあらい",
+    "value": "お手洗い",
+    "translation": "toilettes, sallle de bains",
+    "jlpt": 5
+  },
+  "8": {
+    "id": 8,
+    "pronunciation": "あし",
+    "value": "足",
+    "translation": "jambe, pied",
+    "jlpt": 5
+  },
+  "9": {
+    "id": 9,
+    "pronunciation": "たりる",
+    "value": "足りる",
+    "translation": "etre suffisant",
+    "jlpt": 5
+  },
+  "10": {
+    "id": 10,
+    "pronunciation": "たす",
+    "value": "足す",
+    "translation": "ajouter",
+    "jlpt": 5
+  },
+  "11": {
+    "id": 11,
+    "pronunciation": "ちから",
+    "value": "力",
+    "translation": "force, puissance",
+    "jlpt": 5
+  },
+  "12": {
+    "id": 12,
+    "pronunciation": "ちからもち",
+    "value": "力持ち",
+    "translation": "personne puissante",
+    "jlpt": 5
+  },
+  "13": {
+    "id": 13,
+    "pronunciation": "ぎゅうにく",
+    "value": "牛肉",
+    "translation": "boeuf",
+    "jlpt": 5
+  },
+  "14": {
+    "id": 14,
+    "pronunciation": "ぎゅうにゅう",
+    "value": "牛乳",
+    "translation": "lait",
+    "jlpt": 5
+  },
+  "15": {
+    "id": 15,
+    "pronunciation": "うし",
+    "value": "牛",
+    "translation": "vache",
+    "jlpt": 5
+  },
+  "16": {
+    "id": 16,
+    "pronunciation": "さかな",
+    "value": "魚",
+    "translation": "poisson",
+    "jlpt": 5
+  },
+  "17": {
+    "id": 17,
+    "pronunciation": "さかなや",
+    "value": "魚屋",
+    "translation": "poissonnerie",
+    "jlpt": 5
+  },
+  "18": {
+    "id": 18,
+    "pronunciation": "きっさてん",
+    "value": "喫茶店",
+    "translation": "thé, magasin de thé",
+    "jlpt": 5
+  },
+  "19": {
+    "id": 19,
+    "pronunciation": "みせ",
+    "value": "店",
+    "translation": "magasin",
+    "jlpt": 5
+  },
+  "20": {
+    "id": 20,
+    "pronunciation": "もん",
+    "value": "門",
+    "translation": "porte",
+    "jlpt": 5
+  },
+  "21": {
+    "id": 21,
+    "pronunciation": "せんもん",
+    "value": "専門",
+    "translation": "spécialité",
+    "jlpt": 5
+  },
+  "22": {
+    "id": 22,
+    "pronunciation": "あめ",
+    "value": "雨",
+    "translation": "pluie",
+    "jlpt": 5
+  },
+  "23": {
+    "id": 23,
+    "pronunciation": "くうき",
+    "value": "空気",
+    "translation": "air",
+    "jlpt": 5
+  },
+  "24": {
+    "id": 24,
+    "pronunciation": "くうこう",
+    "value": "空港",
+    "translation": "aeroport",
+    "jlpt": 5
+  },
+  "25": {
+    "id": 25,
+    "pronunciation": "そら",
+    "value": "空",
+    "translation": "ciel",
+    "jlpt": 5
+  },
+  "26": {
+    "id": 26,
+    "pronunciation": "しろ",
+    "value": "白",
+    "translation": "le blanc",
+    "jlpt": 5
+  },
+  "27": {
+    "id": 27,
+    "pronunciation": "しろい",
+    "value": "白い",
+    "translation": "blanc (adj)",
+    "jlpt": 5
+  },
+  "28": {
+    "id": 28,
+    "pronunciation": "名詞",
+    "value": "めいし",
+    "translation": "nom",
+    "jlpt": 5
+  }
+}

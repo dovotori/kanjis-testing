@@ -1,0 +1,233 @@
+{
+  "0": {
+    "id": 0,
+    "pronunciation": "すこし",
+    "value": "少し",
+    "translation": "un peu",
+    "jlpt": 5
+  },
+  "1": {
+    "id": 1,
+    "pronunciation": "すくない",
+    "value": "少ない",
+    "translation": "peu",
+    "jlpt": 5
+  },
+  "2": {
+    "id": 2,
+    "pronunciation": "おおきい",
+    "value": "大きい",
+    "translation": "grand, gros",
+    "jlpt": 5
+  },
+  "3": {
+    "id": 3,
+    "pronunciation": "ちいさい",
+    "value": "小さい",
+    "translation": "petit",
+    "jlpt": 5
+  },
+  "4": {
+    "id": 4,
+    "pronunciation": "しょうがっこう",
+    "value": "小学校",
+    "translation": "école primaire",
+    "jlpt": 5
+  },
+  "5": {
+    "id": 5,
+    "pronunciation": "だいがく",
+    "value": "大学",
+    "translation": "université",
+    "jlpt": 5
+  },
+  "6": {
+    "id": 6,
+    "pronunciation": "たいへん",
+    "value": "大変",
+    "translation": "important, grave, sérieux; très, extrêmement",
+    "jlpt": 5
+  },
+  "7": {
+    "id": 7,
+    "pronunciation": "たいせつ",
+    "value": "大切",
+    "translation": "important, de valeur",
+    "jlpt": 5
+  },
+  "8": {
+    "id": 8,
+    "pronunciation": "おおきい",
+    "value": "大きい",
+    "translation": "grand, gros",
+    "jlpt": 5
+  },
+  "9": {
+    "id": 9,
+    "pronunciation": "あんぜん",
+    "value": "安全",
+    "translation": "sûr",
+    "jlpt": 5
+  },
+  "10": {
+    "id": 10,
+    "pronunciation": "あんしんする",
+    "value": "安心する",
+    "translation": "se rassurer, être rassuré",
+    "jlpt": 5
+  },
+  "11": {
+    "id": 11,
+    "pronunciation": "やすい",
+    "value": "安い",
+    "translation": "bon marché, pas cher",
+    "jlpt": 5
+  },
+  "12": {
+    "id": 12,
+    "pronunciation": "こうこう",
+    "value": "高校",
+    "translation": "lycée",
+    "jlpt": 5
+  },
+  "13": {
+    "id": 13,
+    "pronunciation": "たかい",
+    "value": "高い",
+    "translation": "cher, élevé, haut",
+    "jlpt": 5
+  },
+  "14": {
+    "id": 14,
+    "pronunciation": "しんぶん",
+    "value": "新聞",
+    "translation": "journal",
+    "jlpt": 5
+  },
+  "15": {
+    "id": 15,
+    "pronunciation": "あたらしい",
+    "value": "新しい",
+    "translation": "nouveau, récent, frais",
+    "jlpt": 5
+  },
+  "16": {
+    "id": 16,
+    "pronunciation": "ふるい",
+    "value": "古い",
+    "translation": "vieux, ancien",
+    "jlpt": 5
+  },
+  "17": {
+    "id": 17,
+    "pronunciation": "はやい",
+    "value": "早い",
+    "translation": "tôt; vif, agile, rapide",
+    "jlpt": 5
+  },
+  "18": {
+    "id": 18,
+    "pronunciation": "おそい",
+    "value": "遅い",
+    "translation": "tard, tardif; lent; stupide",
+    "jlpt": 5
+  },
+  "19": {
+    "id": 19,
+    "pronunciation": "しゃちょう",
+    "value": "社長",
+    "translation": "patron, président d'une entreprise",
+    "jlpt": 5
+  },
+  "20": {
+    "id": 20,
+    "pronunciation": "ながい",
+    "value": "長い",
+    "translation": "long",
+    "jlpt": 5
+  },
+  "21": {
+    "id": 21,
+    "pronunciation": "みじかい",
+    "value": "短い",
+    "translation": "court",
+    "jlpt": 5
+  },
+  "22": {
+    "id": 22,
+    "pronunciation": "えん",
+    "value": "円",
+    "translation": "Yen, monnaie japonaise; rond",
+    "jlpt": 5
+  },
+  "23": {
+    "id": 23,
+    "pronunciation": "こうちょう",
+    "value": "校長",
+    "translation": "directeur d'école, principal, proviseur",
+    "jlpt": 5
+  },
+  "24": {
+    "id": 24,
+    "pronunciation": "かいしゃ",
+    "value": "会社",
+    "translation": "compagnie, entreprise, société",
+    "jlpt": 5
+  },
+  "25": {
+    "id": 25,
+    "pronunciation": "しゃいん",
+    "value": "社員",
+    "translation": "employé",
+    "jlpt": 5
+  },
+  "26": {
+    "id": 26,
+    "pronunciation": "ちゅうがっこう",
+    "value": "中学校",
+    "translation": "collège",
+    "jlpt": 5
+  },
+  "27": {
+    "id": 27,
+    "pronunciation": "いちにちじゅう",
+    "value": "一日中",
+    "translation": "toute la journée",
+    "jlpt": 5
+  },
+  "28": {
+    "id": 28,
+    "pronunciation": "なか",
+    "value": "中",
+    "translation": "milieu, intérieur, parmi; pendant",
+    "jlpt": 5
+  },
+  "29": {
+    "id": 29,
+    "pronunciation": "そと",
+    "value": "外",
+    "translation": "dehors, extérieur, en plein air; autre endroit",
+    "jlpt": 5
+  },
+  "30": {
+    "id": 30,
+    "pronunciation": "きく",
+    "value": "聞く",
+    "translation": "entendre, écouter passivement",
+    "jlpt": 5
+  },
+  "31": {
+    "id": 31,
+    "pronunciation": "きこえる",
+    "value": "聞こえる",
+    "translation": "être audible, s'entendre, se faire entendre",
+    "jlpt": 5
+  },
+  "32": {
+    "id": 32,
+    "pronunciation": "みみ",
+    "value": "耳",
+    "translation": "oreille",
+    "jlpt": 5
+  }
+}

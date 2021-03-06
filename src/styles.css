@@ -1,0 +1,186 @@
+body {
+  background-color: #112;
+  font-size: 16px;
+}
+/*
+@font-face {
+  font-family: "mplus";
+  src: url("https://media.kanjialive.com/fonts/mplus-1m-light-webfont.woff2")
+    format("woff2");
+}
+*/
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 40px;
+  color: #fff;
+  text-shadow: 1px 1px 0 #000;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+h1 {
+  margin: 5px 0;
+  color: #fff;
+  text-shadow: 0.02em 0.02em 0 #00ff10;
+}
+
+h2 {
+  margin: 5px 0;
+  color: rgba(255, 255, 255, 0.616);
+}
+
+p {
+  font-size: 0.7em;
+}
+
+.small {
+  font-size: 0.4em;
+  margin: 0;
+}
+
+.grey {
+  color: #aaa;
+}
+
+.btn {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 20px 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  opacity: 0.5;
+}
+
+.btn > * {
+  width: 100%;
+}
+
+button {
+  padding: 10px;
+  margin: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 20px 0;
+  opacity: 0.5;
+}
+
+nav ul {
+  width: 100%;
+  padding: 0;
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+nav ul li a {
+  color: #fff;
+}
+
+nav ul li a.selected {
+  font-weight: bold;
+}
+
+nav:hover,
+.btn:hover {
+  opacity: 1;
+}
+
+.selection {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.selection p {
+  margin: 0.5em;
+  cursor: pointer;
+}
+
+.selection p:hover,
+.selection p.selected {
+  color: #00ff10;
+}
+
+.radical {
+  margin: 2em 0;
+}
+
+.grades {
+  display: flex;
+  justify-content: space-around;
+  margin: 2em 0;
+  width: 100%;
+}
+
+.grades span {
+  cursor: pointer;
+  width: 100%;
+  color: #aaa;
+}
+
+.grades span.selected {
+  font-weight: 800;
+  color: #fff;
+}
+
+.grid {
+  display: grid;
+  justify-items: center;
+  grid-template-columns: 30% 40% 30%;
+  grid-template-rows: auto;
+  text-align: left;
+  column-gap: 0.4em;
+  margin: 5em 1em;
+}
+
+.images {
+  background: #fff;
+  width: 100%;
+}
+
+.grid > * {
+  align-self: center;
+}
+
+.examples {
+  display: grid;
+  justify-items: start;
+  font-size: 0.4em;
+  grid-template-columns: 40% auto 1em;
+  grid-template-rows: auto;
+  column-gap: 0.4em;
+  row-gap: 0.4em;
+  text-align: left;
+  margin: 5em 1em;
+}
+
+img,
+video {
+  width: auto;
+  height: 3em;
+  margin: 0.5em;
+}
+audio {
+  display: none;
+}
+svg {
+  fill: #fff;
+  width: 1em;
+  height: auto;
+  margin: 0 0.5em;
+  cursor: pointer;
+}
