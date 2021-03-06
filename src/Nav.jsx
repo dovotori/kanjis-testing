@@ -54,10 +54,17 @@ const Nav = ({ mode, modes, setMode, routes, history, location }) => {
               key="/selection"
               selected={"/selection" === location.pathname}
             >
-              Selection
+              selection
+            </option>
+            <option
+              value="/list"
+              key="/list"
+              selected={"/list" === location.pathname}
+            >
+              list
             </option>
             <option value="/" key="/" selected={"/" === location.pathname}>
-              Kanjis N5
+              kanjis N5
             </option>
           </select>
         </li>

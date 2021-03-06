@@ -184,3 +184,33 @@ svg {
   margin: 0 0.5em;
   cursor: pointer;
 }
+
+.list {
+  margin: 0 1em;
+}
+
+.list h1 {
+  margin: 1em 0;
+}
+
+section {
+  cursor: pointer;
+}
+
+section p {
+  display: flex;
+  justify-content: center;
+}
+
+section p span {
+  text-align: left;
+}
+
+section p span:nth-of-type(1) {
+  width: 10%;
+}
+
+section p span:nth-of-type(2) {
+  color: #aaa;
+  width: 90%;
+}

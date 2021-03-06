@@ -5,6 +5,7 @@ import "./styles.css";
 import Nav from "./Nav";
 import Test from "./Test";
 import CreateSelection from "./CreateSelection";
+import List from "./List";
 
 import words from "/public/data/wordsN5.json";
 import kanjis from "/public/data/kanjisN5.json";
@@ -46,6 +47,9 @@ const App = () => {
             ))}
             <Route path="/selection">
               <CreateSelection mode={mode} />
+            </Route>
+            <Route path="/list">
+              <List mode={mode} sections={routes} />
             </Route>
             <Route>
               <Test mode={mode} items={kanjis} />
