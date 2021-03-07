@@ -14,13 +14,15 @@ import page3 from "/public/data/page3.json";
 import page4 from "/public/data/page4.json";
 import page5 from "/public/data/page5.json";
 import page6 from "/public/data/page6.json";
+import adverbes from "/public/data/adverbes.json";
 
 const routes = {
   words,
   page3,
   page4,
   page5,
-  page6
+  page6,
+  adverbes
 };
 
 const MODES = [
