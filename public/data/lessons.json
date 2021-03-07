@@ -1,35 +1,35 @@
 {
   "i": {
     "label": "+i",
-    "preneuaff": { "v": "i" },
-    "preneuneg": { "v": "kunai" },
-    "prepolaff": { "v": "idesu" },
-    "prepolneg": { "v": "kunaidesu" },
-    "pasneuaff": { "v": "katta" },
-    "pasneuneg": { "v": "kunakatta" },
-    "paspolaff": { "v": "kattadesu" },
-    "paspolneg": { "v": "kunakattadesu" }
+    "preneuaff": { "v": "い" },
+    "preneuneg": { "v": "くない" },
+    "prepolaff": { "v": "いです" },
+    "prepolneg": { "v": "くないです" },
+    "pasneuaff": { "v": "かった" },
+    "pasneuneg": { "v": "かなかった" },
+    "paspolaff": { "v": "かったです" },
+    "paspolneg": { "v": "くなかったです" }
   },
   "ii": {
     "label": "ii",
-    "preneuaff": { "v": "ii" },
-    "preneuneg": { "v": "yokunai" },
-    "prepolaff": { "v": "yoi" },
-    "prepolneg": { "v": "yokuarimasen" },
-    "pasneuaff": { "v": "yokatta" },
-    "pasneuneg": { "v": "yokunakatta" },
-    "paspolaff": { "v": "yokattadesu" },
-    "paspolneg": { "v": "yokuarimasendeshita" }
+    "preneuaff": { "v": "いい" },
+    "preneuneg": { "v": "よくない" },
+    "prepolaff": { "v": "よい" },
+    "prepolneg": { "v": "よくありません" },
+    "pasneuaff": { "v": "よかった" },
+    "pasneuneg": { "v": "よくなかった" },
+    "paspolaff": { "v": "よかったです" },
+    "paspolneg": { "v": "よくありませんでした" }
   },
   "na": {
     "label": "+na",
-    "preneuaff": { "v": "da" },
-    "preneuneg": { "v": "djanai" },
-    "prepolaff": { "v": "desu" },
-    "prepolneg": { "v": "dewaarimasen" },
-    "pasneuaff": { "v": "datta" },
-    "pasneuneg": { "v": "djanakatta" },
-    "paspolaff": { "v": "deshita" },
-    "paspolneg": { "v": "dewaarimasendeshita" }
+    "preneuaff": { "v": "だ" },
+    "preneuneg": { "v": "じゃない" },
+    "prepolaff": { "v": "です" },
+    "prepolneg": { "v": "ではありません" },
+    "pasneuaff": { "v": "だった" },
+    "pasneuneg": { "v": "じゃなかった" },
+    "paspolaff": { "v": "でした" },
+    "paspolneg": { "v": "ではありませんでした" }
   }
 }

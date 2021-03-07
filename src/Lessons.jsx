@@ -15,52 +15,52 @@ const Verbes = () => {
       <h4>Neutre passé godan</h4>
       <div className="flex">
         <div className="first">
-          <p>u</p>
-          <p>tsu</p>
-          <p>ru</p>
+          <p>う</p>
+          <p>つ</p>
+          <p>る</p>
         </div>
         <Svg />
-        <p className="last">tta</p>
+        <p className="last">った</p>
       </div>
       <div className="separator" />
       <div className="flex">
         <div className="first">
-          <p>mu</p>
-          <p>nu</p>
-          <p>bu</p>
+          <p>む</p>
+          <p>ぬ</p>
+          <p>ぶ</p>
         </div>
         <Svg />
-        <p className="last">nda</p>
+        <p className="last">んだ</p>
       </div>
       <div className="separator" />
       <div className="flex">
-        <p className="first">ku</p>
+        <p className="first">く</p>
         <Svg />
-        <p className="last">ita</p>
+        <p className="last">いた</p>
       </div>
       <div className="separator" />
       <div className="flex">
-        <p className="first">gu</p>
+        <p className="first">ぐ</p>
         <Svg />
-        <p className="last">ida</p>
+        <p className="last">いだ</p>
       </div>
       <div className="separator" />
       <div className="flex">
-        <p className="first">su</p>
+        <p className="first">す</p>
         <Svg />
-        <p className="last">shita</p>
+        <p className="last">した</p>
       </div>
       <h4>Neutre passé irrégulier</h4>
       <div className="flex">
-        <p className="first">suru</p>
+        <p className="first">する</p>
         <Svg />
-        <p className="last">shita</p>
+        <p className="last">した</p>
       </div>
       <div className="separator" />
       <div className="flex">
-        <p className="first">kuru</p>
+        <p className="first">くる</p>
         <Svg />
-        <p className="last">kitta</p>
+        <p className="last">きった</p>
       </div>
     </Drawer>
   );
