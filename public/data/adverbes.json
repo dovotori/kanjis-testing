@@ -9,244 +9,239 @@
   "1": {
     "id": 1,
     "pronunciation": "",
-    "value": "  しっかり",
+    "value": "しっかり",
     "translation": "fermement",
     "jlpt": 5
   },
   "2": {
     "id": 2,
     "pronunciation": "",
-    "value": "  きちと",
+    "value": "きちんと",
     "translation": "soigneusement",
     "jlpt": 5
   },
   "3": {
     "id": 3,
     "pronunciation": "",
-    "value": "  とても",
+    "value": "とても",
     "translation": "très",
     "jlpt": 5
   },
   "4": {
     "id": 4,
     "pronunciation": "",
-    "value": "  もっと",
+    "value": "もっと",
     "translation": "encore plus",
     "jlpt": 5
   },
   "5": {
     "id": 5,
     "pronunciation": "",
-    "value": "  かなり",
+    "value": "かなり",
     "translation": "assez",
     "jlpt": 5
   },
   "6": {
     "id": 6,
     "pronunciation": "",
-    "value": "  たくさん",
+    "value": "たくさん",
     "translation": "beaucoup",
     "jlpt": 5
   },
   "7": {
     "id": 7,
     "pronunciation": "",
-    "value": "  いっぱい",
+    "value": "いっぱい",
     "translation": "plein",
     "jlpt": 5
   },
   "8": {
     "id": 8,
     "pronunciation": "すこし",
-    "value": "  少し",
+    "value": "少し",
     "translation": "un peu",
     "jlpt": 5
   },
   "9": {
     "id": 9,
     "pronunciation": "",
-    "value": "  ずっと",
+    "value": "ずっと",
     "translation": "constamment",
     "jlpt": 5
   },
   "10": {
     "id": 10,
     "pronunciation": "",
-    "value": "  すぐ",
+    "value": "すぐ",
     "translation": "immediatement",
     "jlpt": 5
   },
   "11": {
     "id": 11,
     "pronunciation": "まもなく",
-    "value": "  間もなく",
+    "value": "間もなく",
     "translation": "sous peu",
     "jlpt": 5
   },
   "12": {
     "id": 12,
     "pronunciation": "ときどき",
-    "value": "  時々",
+    "value": "時々",
     "translation": "de temps en temps",
     "jlpt": 5
   },
   "13": {
     "id": 13,
     "pronunciation": "",
-    "value": "  よく",
+    "value": "よく",
     "translation": "souvent",
     "jlpt": 5
   },
   "14": {
     "id": 14,
     "pronunciation": "",
-    "value": "  いつも",
+    "value": "いつも",
     "translation": "toujours",
     "jlpt": 5
   },
   "15": {
     "id": 15,
     "pronunciation": "",
-    "value": "  もう",
-    "translation": "deja",
+    "value": "もう",
+    "translation": "déjà",
     "jlpt": 5
   },
   "16": {
     "id": 16,
     "pronunciation": "",
-    "value": "  ついに",
+    "value": "ついに",
     "translation": "enfin",
     "jlpt": 5
   },
   "17": {
     "id": 17,
     "pronunciation": "",
-    "value": "  まだ",
+    "value": "まだ",
     "translation": "encore (dure)",
     "jlpt": 5
   },
   "18": {
     "id": 18,
     "pronunciation": "",
-    "value": "  また",
+    "value": "また",
     "translation": "encore (repete)",
     "jlpt": 5
   },
   "19": {
     "id": 19,
     "pronunciation": "たぶん",
-    "value": "  多分",
-    "translation": "peut-など",
+    "value": "多分",
+    "translation": "peut-être",
     "jlpt": 5
   },
   "20": {
     "id": 20,
     "pronunciation": "たしかに",
-    "value": "  確かに",
-    "translation": "certainnement",
+    "value": "確かに",
+    "translation": "certainement",
     "jlpt": 5
   },
   "21": {
     "id": 21,
     "pronunciation": "かならず",
-    "value": "  必ず",
+    "value": "必ず",
     "translation": "a coup sûr",
     "jlpt": 5
   },
   "22": {
     "id": 22,
     "pronunciation": "",
-    "value": "  もちろん",
+    "value": "もちろん",
     "translation": "bien entendu",
     "jlpt": 5
   },
   "23": {
     "id": 23,
     "pronunciation": "ほんとうに",
-    "value": "  本当に",
+    "value": "本当に",
     "translation": "vraiment",
     "jlpt": 5
   },
   "24": {
     "id": 24,
     "pronunciation": "",
-    "value": "  やはり",
+    "value": "やはり",
     "translation": "comme on pouvait s'y attendre",
     "jlpt": 5
   },
   "25": {
     "id": 25,
     "pronunciation": "",
-    "value": "  だけ",
+    "value": "だけ",
     "translation": "uniquement",
     "jlpt": 5
   },
   "26": {
     "id": 26,
     "pronunciation": "",
-    "value": "  しか",
+    "value": "しか",
     "translation": "ne que (uniquement)",
     "jlpt": 5
   },
   "27": {
     "id": 27,
     "pronunciation": "",
-    "value": "  ばかり",
+    "value": "ばかり",
     "translation": "ne que (uniquement pejoratif)",
     "jlpt": 5
   },
   "28": {
     "id": 28,
     "pronunciation": "",
-    "value": "  くらい",
+    "value": "くらい",
     "translation": "environ (temps durée)",
     "jlpt": 5
   },
   "29": {
     "id": 29,
     "pronunciation": "",
-    "value": "  ころ",
+    "value": "ころ",
     "translation": "environ (temps commencement)",
     "jlpt": 5
   },
   "30": {
     "id": 30,
     "pronunciation": "",
-    "value": "  もど",
+    "value": "ほど",
     "translation": "comme (comparaison)",
     "jlpt": 5
   },
   "31": {
     "id": 31,
     "pronunciation": "",
-    "value": "  など",
+    "value": "など",
     "translation": "etc",
     "jlpt": 5
   },
   "32": {
     "id": 32,
     "pronunciation": "",
-    "value": "  こす",
+    "value": "こそ",
     "translation": "pour sûr",
     "jlpt": 5
   },
   "33": {
     "id": 33,
     "pronunciation": "",
-    "value": "  さえ",
+    "value": "さえ",
     "translation": "même (etonnement)",
     "jlpt": 5
   },
   "34": {
     "id": 34,
     "pronunciation": "",
-    "value": "  ども",
+    "value": "でも",
     "translation": "même (etonnement extreme)",
-    "jlpt": 5
-  },
-  "35": {
-    "id": 35,
-    "value": "  ",
     "jlpt": 5
   }
 }

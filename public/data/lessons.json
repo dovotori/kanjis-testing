@@ -3,22 +3,22 @@
     "label": "+i",
     "preneuaff": { "v": "i" },
     "preneuneg": { "v": "kunai" },
-    "prepolaff": { "v": "desu" },
+    "prepolaff": { "v": "idesu" },
     "prepolneg": { "v": "kunaidesu" },
-    "pasneuaff": { "v": "kata" },
-    "pasneuneg": { "v": "kunakata" },
-    "paspolaff": { "v": "katadesu" },
-    "paspolneg": { "v": "kunakatadesu" }
+    "pasneuaff": { "v": "katta" },
+    "pasneuneg": { "v": "kunakatta" },
+    "paspolaff": { "v": "kattadesu" },
+    "paspolneg": { "v": "kunakattadesu" }
   },
   "ii": {
     "label": "ii",
     "preneuaff": { "v": "ii" },
     "preneuneg": { "v": "yokunai" },
-    "prepolaff": { "v": "yoku" },
+    "prepolaff": { "v": "yoi" },
     "prepolneg": { "v": "yokuarimasen" },
-    "pasneuaff": { "v": "yokata" },
+    "pasneuaff": { "v": "yokatta" },
     "pasneuneg": { "v": "yokunakatta" },
-    "paspolaff": { "v": "yokatadesu" },
+    "paspolaff": { "v": "yokattadesu" },
     "paspolneg": { "v": "yokuarimasendeshita" }
   },
   "na": {
@@ -26,10 +26,10 @@
     "preneuaff": { "v": "da" },
     "preneuneg": { "v": "djanai" },
     "prepolaff": { "v": "desu" },
-    "prepolneg": { "v": "waarimasen" },
-    "pasneuaff": { "v": "data" },
+    "prepolneg": { "v": "dewaarimasen" },
+    "pasneuaff": { "v": "datta" },
     "pasneuneg": { "v": "djanakatta" },
     "paspolaff": { "v": "deshita" },
-    "paspolneg": { "v": "waarimasendeshita" }
+    "paspolneg": { "v": "dewaarimasendeshita" }
   }
 }
