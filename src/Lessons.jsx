@@ -134,6 +134,22 @@ const renderGrid = ({
   </div>
 );
 
+const Expressions = () => {
+  return (
+    <Drawer label="Expressions">
+      <p>
+        +た ごとがある <span className="grey">avoir déja expérimenter</span>
+      </p>
+      <p>
+        +て いる / +て ある{" "}
+        <span className="grey">
+          action en train de se faire (personne / objet)
+        </span>
+      </p>
+    </Drawer>
+  );
+};
+
 const Adjectifs = () => {
   return (
     <Drawer label="Adjectifs">
@@ -149,6 +165,7 @@ const Lessons = () => {
     <div className="lessons">
       <Verbes />
       <Adjectifs />
+      <Expressions />
     </div>
   );
 };
