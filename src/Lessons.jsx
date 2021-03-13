@@ -62,6 +62,8 @@ const Verbes = () => {
         <Svg />
         <p className="last">きった</p>
       </div>
+      <h4>Formes</h4>
+      {renderGrid(values.tai)}
     </Drawer>
   );
 };

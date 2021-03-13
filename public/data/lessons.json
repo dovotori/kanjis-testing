@@ -31,5 +31,16 @@
     "pasneuneg": { "v": "じゃなかった" },
     "paspolaff": { "v": "でした" },
     "paspolneg": { "v": "ではありませんでした" }
+  },
+  "tai": {
+    "label": "+itai",
+    "preneuaff": { "v": "いたい" },
+    "preneuneg": { "v": "いたくない" },
+    "prepolaff": { "v": "いたいです" },
+    "prepolneg": { "v": "いたくないです" },
+    "pasneuaff": { "v": "いたかった" },
+    "pasneuneg": { "v": "いたくなかった" },
+    "paspolaff": { "v": "いたかったです" },
+    "paspolneg": { "v": "いたくなかったです" }
   }
 }
