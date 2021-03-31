@@ -140,7 +140,7 @@ const Expressions = () => {
   return (
     <Drawer label="Expressions">
       <p>
-        +た ことがある <span className="grey">avoir déja expérimenter</span>
+        +た ことがある <span className="grey">avoir déjà expérimenté</span>
       </p>
       <p>
         +て いる / +て ある{" "}
@@ -156,14 +156,14 @@ const Expressions = () => {
       </p>
       <p>
         +い にいく / にくる{" "}
-        <span className="grey">vais / venir faire qq chose</span>
+        <span className="grey">aller / venir faire qq chose</span>
       </p>
       <p>
         +い すぎる <span className="grey">trop</span>
       </p>
       <p>
         nom + ちゅう / じゅう (中){" "}
-        <span className="grey">pendant / partout</span>
+        <span className="grey">pendant / partout / tout au long de</span>
       </p>
       <p>
         +て ください <span className="grey">imperatif poli</span>
@@ -191,7 +191,7 @@ const Expressions = () => {
         <span className="grey">être capable de faire qq chose</span>
       </p>
       <p>
-        ＋る まえに <span className="grey">avant avoir</span>
+        ＋る まえに <span className="grey">avant d'avoir</span>
       </p>
       <p>
         +た あとで <span className="grey">apres avoir</span>
@@ -200,7 +200,7 @@ const Expressions = () => {
         +て もいいです <span className="grey">avoir la permission de</span>
       </p>
       <p>
-        +る もいです <span className="grey">intention de faire qq chose</span>
+        +る つもりです <span className="grey">intention de faire qq chose</span>
       </p>
     </Drawer>
   );
