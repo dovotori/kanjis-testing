@@ -179,7 +179,7 @@ const Expressions = () => {
         <span className="grey">interdiction, impossibilité</span>
       </p>
       <p>
-        +ない (sans le い) + なければなりません{" "}
+        +ない (sans le い) + ければなりません{" "}
         <span className="grey">obligation</span>
       </p>
       <p>
@@ -198,6 +198,10 @@ const Expressions = () => {
       </p>
       <p>
         +て もいいです <span className="grey">avoir la permission de</span>
+      </p>
+      <p>
+        +ない (sans le い) ＋くてもいいです
+        <span className="grey">avoir la permission de ne pas faire</span>
       </p>
       <p>
         +る つもりです <span className="grey">intention de faire qq chose</span>
